@@ -820,15 +820,20 @@ http://185.93.2.35:12012/live/359111068247FFA1/OSj3tS0tajUnZzTXBDU1gVO8DxHizDKom
 
 #EXTINF:-1,---------------AsianTV HD---------------
 #EXTINF:-1 tvg-id="" tvg-name="KBS1" tvg-logo="https://sppotato.github.io/icon/kbs1.png" group-title="日韩亚洲",KBS放送公社1台 HD
-http://183.98.98.136:9981/stream/channelid/1764924130
+http://39.115.219.93:9981/stream/channelid/397547846
 #EXTINF:-1 tvg-id="" tvg-name="KBS2" tvg-logo="https://sppotato.github.io/icon/kbs2.png" group-title="日韩亚洲",KBS放送公社2台 HD
-http://183.98.98.136:9981/stream/channelid/925789336
+http://39.115.219.93:9981/stream/channelid/949507373
 #EXTINF:-1 tvg-id="" tvg-name="MBC" tvg-logo="https://sppotato.github.io/icon/mbc.png" group-title="日韩亚洲",MBC文化放送 HD
-http://183.98.98.136:9981/stream/channelid/671462733
-#EXTINF:-1 tvg-id="" tvg-name="EBS" tvg-logo="https://sppotato.github.io/icon/ebs1.png" group-title="日韩亚洲",EBS教育放送 HD
-http://183.98.98.136:9981/stream/channelid/622397827
+http://39.115.219.93:9981/stream/channelid/2001810046
+#EXTINF:-1 tvg-id="" tvg-name="EBS" tvg-logo="https://sppotato.github.io/icon/ebs1.png" group-title="日韩亚洲",EBS教育放送1台 HD
+http://39.115.219.93:9981/stream/channelid/1001986086
+#EXTINF:-1 tvg-id="" tvg-name="EBS2" tvg-logo="https://sppotato.github.io/icon/ebs2.png" group-title="日韩亚洲",EBS教育放送2台 HD
+http://39.115.219.93:9981/stream/channelid/342977833
 #EXTINF:-1 tvg-id="" tvg-name="SBS" tvg-logo="https://sppotato.github.io/icon/sbs.png" group-title="日韩亚洲",SBS首爾放送 HD
-http://183.98.98.136:9981/stream/channelid/609791124
+http://39.115.219.93:9981/stream/channelid/165552443
+#EXTINF:-1 tvg-id="" tvg-name="AsiaN" tvg-logo="https://sppotato.github.io/icon/asian.png" group-title="日韩亚洲",AsiaN HD
+http://39.115.219.93:9981/stream/channelid/1994951407
+
 
 
 
