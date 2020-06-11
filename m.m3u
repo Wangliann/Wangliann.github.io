@@ -820,21 +820,31 @@ http://185.93.2.35:12012/live/359111068247FFA1/OSj3tS0tajUnZzTXBDU1gVO8DxHizDKom
 
 #EXTINF:-1,---------------AsianTV HD---------------
 #EXTINF:-1 tvg-id="" tvg-name="KBS1" tvg-logo="https://sppotato.github.io/icon/kbs1.png" group-title="日韩亚洲",KBS放送公社1台 HD
-http://39.115.219.93:9981/stream/channelid/397547846
+http://119.207.55.114:9981/stream/channelid/1221325843
 #EXTINF:-1 tvg-id="" tvg-name="KBS2" tvg-logo="https://sppotato.github.io/icon/kbs2.png" group-title="日韩亚洲",KBS放送公社2台 HD
-http://39.115.219.93:9981/stream/channelid/949507373
+http://119.207.55.114:9981/stream/channelid/776364258
 #EXTINF:-1 tvg-id="" tvg-name="MBC" tvg-logo="https://sppotato.github.io/icon/mbc.png" group-title="日韩亚洲",MBC文化放送 HD
-http://39.115.219.93:9981/stream/channelid/2001810046
+http://119.207.55.114:9981/stream/channelid/1917993306
 #EXTINF:-1 tvg-id="" tvg-name="EBS" tvg-logo="https://sppotato.github.io/icon/ebs1.png" group-title="日韩亚洲",EBS教育放送1台 HD
-http://39.115.219.93:9981/stream/channelid/1001986086
+http://183.98.98.136:9981/stream/channelid/622397827ticket=A4AAD56188087E18371E70D171F8B63AD9559FFD&profile=pass
 #EXTINF:-1 tvg-id="" tvg-name="EBS2" tvg-logo="https://sppotato.github.io/icon/ebs2.png" group-title="日韩亚洲",EBS教育放送2台 HD
 http://39.115.219.93:9981/stream/channelid/342977833
 #EXTINF:-1 tvg-id="" tvg-name="SBS" tvg-logo="https://sppotato.github.io/icon/sbs.png" group-title="日韩亚洲",SBS首爾放送 HD
-http://39.115.219.93:9981/stream/channelid/165552443
-#EXTINF:-1 tvg-id="" tvg-name="AsiaN" tvg-logo="https://sppotato.github.io/icon/asian.png" group-title="日韩亚洲",AsiaN HD
+http://183.98.98.136:9981/stream/channelid/609791124
+#EXTINF:-1 tvg-id="" tvg-name="SBS PLUS" tvg-logo="https://sppotato.github.io/icon/sbsplus.png" group-title="日韩亚洲",SBS首爾放送+ HD
+http://39.117.101.80:9981/stream/channelid/638727834
+#EXTINF:-1 tvg-id="" tvg-name="AsiaN" tvg-logo="https://sppotato.github.io/icon/asian.png" group-title="日韩亚洲",AsiaN亞洲戲劇 HD
 http://39.115.219.93:9981/stream/channelid/1994951407
-
-
+#EXTINF:-1 tvg-id="" tvg-name="tvN" tvg-logo="https://sppotato.github.io/icon/tvn.png" group-title="日韩亚洲",tvN綜合娛樂 HD
+http://39.117.101.80:9981/stream/channelid/1161288396
+#EXTINF:-1 tvg-id="" tvg-name="channelA" tvg-logo="https://sppotato.github.io/icon/channela.png" group-title="日韩亚洲",A付費娛樂 HD
+http://39.117.101.80:9981/stream/channelid/322143236
+#EXTINF:-1 tvg-id="" tvg-name="TV Chosun" tvg-logo="https://sppotato.github.io/icon/tvcx.png" group-title="日韩亚洲",朝鮮放送 HD
+http://39.117.101.80:9981/stream/channelid/1527398470
+#EXTINF:-1 tvg-id="" tvg-name="OBS" tvg-logo="https://sppotato.github.io/icon/" group-title="日韩亚洲",OBS京仁電視 HD
+http://39.117.101.80:9981/stream/channelid/282934051
+#EXTINF:-1 tvg-id="" tvg-name="JIBS SBS" tvg-logo="https://sppotato.github.io/icon/" group-title="日韩亚洲",JIBS SBS HD
+http://119.207.55.114:9981/stream/channelid/245867204
 
 
 #EXTINF:-1 tvg-id="" tvg-name="CNAI亚洲新闻" tvg-logo="https://sppotato.github.io/icon/cna.png" group-title="日韩亚洲",亚洲新闻台 HD
