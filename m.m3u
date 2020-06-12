@@ -776,17 +776,16 @@ http://seb.sason.top/sc/ztxw_fhd.m3u8
 http://seb.sason.top/sc/slinews_fhd.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="三立新闻" tvg-logo="https://wangliann.github.io/icon/sanlinew.png" group-title="港澳台高清",三立LIVE新聞 FHD
 http://seb.sason.top/sc/sllive_fhd.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sports1" tvg-logo="https://wangliann.github.io/icon/bein1.png" group-title="港澳台高清",beIN体育1台 HD
-rtmp://xiaoyu.speedws.com/sat/hk011
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sports2" tvg-logo="https://wangliann.github.io/icon/bein2.png" group-title="港澳台高清",beIN体育2台 HD
-rtmp://xiaoyu.speedws.com/sat/hk021
 #EXTINF:-1 tvg-id="" tvg-name="有线18台" tvg-logo="https://wangliann.github.io/icon/hk18.png" group-title="港澳台高清",有線18台 HD
 rtmp://xiaoyu.speedws.com/sat/hk041
-#EXTINF:-1 tvg-id="" tvg-name="民視频道" tvg-logo="https://wangliann.github.io/icon/taishi.png" group-title="港澳台高清",民視 HD
+#EXTINF:-1 tvg-id="" tvg-name="民視频道" tvg-logo="https://wangliann.github.io/icon/minshi.png" group-title="港澳台高清",民視 HD
 rtmp://xiaoyu.speedws.com/sat/tv051
 #EXTINF:-1 tvg-id="" tvg-name="台視频道" tvg-logo="https://wangliann.github.io/icon/taishi.png" group-title="港澳台高清",台視 HD
 rtmp://xiaoyu.speedws.com/sat/tv071
-
+#EXTINF:-1 tvg-id="" tvg-name="中視频道" tvg-logo="https://wangliann.github.io/icon/zhongshi.png" group-title="港澳台高清",中視 HD
+rtmp://xiaoyu.speedws.com/sat/tv091
+#EXTINF:-1 tvg-id="" tvg-name="華視频道" tvg-logo="https://wangliann.github.io/icon/huashi.png" group-title="港澳台高清",華視 HD
+rtmp://xiaoyu.speedws.com/sat/tv111
 #EXTINF:-1 tvg-id="" tvg-name="緯來日本" tvg-logo="https://wangliann.github.io/icon/wlrb.png" group-title="港澳台高清",緯來日本 HD
 rtmp://xiaoyu.speedws.com/sat/tv771
 #EXTINF:-1 tvg-id="" tvg-name="緯來體育" tvg-logo="https://wangliann.github.io/icon/wlty.png" group-title="港澳台高清",緯來體育 HD
@@ -801,9 +800,12 @@ rtmp://xiaoyu.speedws.com/sat/tv731
 rtmp://xiaoyu.speedws.com/sat/tv741
 #EXTINF:-1 tvg-id="" tvg-name="爱尔达体育1" tvg-logo="https://wangliann.github.io/icon/elta1.png" group-title="港澳台高清",ELTA體育1台 HD
 rtmp://xiaoyu.speedws.com/sat/md041
+#EXTINF:-1 tvg-id="" tvg-name="TVBS歡樂台" tvg-logo="https://wangliann.github.io/icon/tvbshl.png" group-title="港澳台高清",TVBS歡樂台 HD
+rtmp://xiaoyu.speedws.com/sat/tv421
 #EXTINF:-1 tvg-id="" tvg-name="中天新聞" tvg-logo="https://wangliann.github.io/icon/zhongtiannew.png" group-title="港澳台高清",中天新聞 HD
 rtmp://xiaoyu.speedws.com/sat/tv521
-
+#EXTINF:-1 tvg-id="" tvg-name="東森財經新聞" tvg-logo="https://wangliann.github.io/icon/dongsengnew2.png" group-title="港澳台高清",東森財經新聞 HD
+rtmp://xiaoyu.speedws.com/sat/tv571
 
 
 
@@ -816,31 +818,59 @@ rtmp://xiaoyu.speedws.com/sat/tv521
 
 #EXTINF:-1,---------------AsianTV HD---------------
 #EXTINF:-1 tvg-id="" tvg-name="KBS1" tvg-logo="https://wangliann.github.io/icon/kbs1.png" group-title="日韩亚洲",KBS放送公社1台 HD
-http://119.207.55.114:9981/stream/channelid/1221325843
+http://114.29.90.71:9981/stream/channelid/666221736
 #EXTINF:-1 tvg-id="" tvg-name="KBS2" tvg-logo="https://wangliann.github.io/icon/kbs2.png" group-title="日韩亚洲",KBS放送公社2台 HD
-http://119.207.55.114:9981/stream/channelid/776364258
+http://114.29.90.71:9981/stream/channelid/1400034552
+#EXTINF:-1 tvg-id="" tvg-name="KBS DRAMA" tvg-logo="https://wangliann.github.io/icon/kbs3.png" group-title="日韩亚洲",KBS戲劇頻道 HD
+http://114.29.90.71:9981/stream/channelid/269614219
 #EXTINF:-1 tvg-id="" tvg-name="MBC" tvg-logo="https://wangliann.github.io/icon/mbc.png" group-title="日韩亚洲",MBC文化放送 HD
-http://119.207.55.114:9981/stream/channelid/1917993306
+http://114.29.90.71:9981/stream/channelid/1728113590
+#EXTINF:-1 tvg-id="" tvg-name="MBC Every1" tvg-logo="https://wangliann.github.io/icon/mbcevery1.png" group-title="日韩亚洲",MBC娛樂頻道 HD
+http://114.29.90.71:9981/stream/channelid/181225162
 #EXTINF:-1 tvg-id="" tvg-name="EBS" tvg-logo="https://wangliann.github.io/icon/ebs1.png" group-title="日韩亚洲",EBS教育放送1台 HD
-http://183.98.98.136:9981/stream/channelid/622397827ticket=A4AAD56188087E18371E70D171F8B63AD9559FFD&profile=pass
+http://114.29.90.71:9981/stream/channelid/1999966477
 #EXTINF:-1 tvg-id="" tvg-name="EBS2" tvg-logo="https://wangliann.github.io/icon/ebs2.png" group-title="日韩亚洲",EBS教育放送2台 HD
-http://39.115.219.93:9981/stream/channelid/342977833
+http://114.29.90.71:9981/stream/channelid/1401557806
 #EXTINF:-1 tvg-id="" tvg-name="SBS" tvg-logo="https://wangliann.github.io/icon/sbs.png" group-title="日韩亚洲",SBS首爾放送 HD
-http://183.98.98.136:9981/stream/channelid/609791124
+http://114.29.90.71:9981/stream/channelid/1152899107
 #EXTINF:-1 tvg-id="" tvg-name="SBS PLUS" tvg-logo="https://wangliann.github.io/icon/sbsplus.png" group-title="日韩亚洲",SBS首爾放送+ HD
-http://39.117.101.80:9981/stream/channelid/638727834
+http://114.29.90.71:9981/stream/channelid/2132879915
 #EXTINF:-1 tvg-id="" tvg-name="AsiaN" tvg-logo="https://wangliann.github.io/icon/asian.png" group-title="日韩亚洲",AsiaN亞洲戲劇 HD
-http://39.115.219.93:9981/stream/channelid/1994951407
+http://211.245.55.198:1024/m2u/239.192.65.5:49220
 #EXTINF:-1 tvg-id="" tvg-name="tvN" tvg-logo="https://wangliann.github.io/icon/tvn.png" group-title="日韩亚洲",tvN綜合娛樂 HD
-http://39.117.101.80:9981/stream/channelid/1161288396
-#EXTINF:-1 tvg-id="" tvg-name="channelA" tvg-logo="https://wangliann.github.io/icon/channela.png" group-title="日韩亚洲",A付費娛樂 HD
-http://39.117.101.80:9981/stream/channelid/322143236
+http://114.29.90.71:9981/stream/channelid/7285453
+#EXTINF:-1 tvg-id="" tvg-name="channel A" tvg-logo="https://wangliann.github.io/icon/channela.png" group-title="日韩亚洲",A付費娛樂 HD
+http://114.29.90.71:9981/stream/channelid/530643920
+#EXTINF:-1 tvg-id="" tvg-name="JTBC" tvg-logo="https://wangliann.github.io/icon/jtbc.png" group-title="日韩亚洲",JTBC中央東洋 HD
+http://114.29.90.71:9981/stream/channelid/867700822
+#EXTINF:-1 tvg-id="" tvg-name="MBN" tvg-logo="https://wangliann.github.io/icon/mbn.png" group-title="日韩亚洲",MBN每日廣播 HD
+http://114.29.90.71:9981/stream/channelid/1457901504
+#EXTINF:-1 tvg-id="" tvg-name="Channel China" tvg-logo="https://wangliann.github.io/icon/cchina.png" group-title="日韩亚洲",中国频道 HD
+http://211.245.55.198:1024/m2u/239.192.64.9:49220
 #EXTINF:-1 tvg-id="" tvg-name="TV Chosun" tvg-logo="https://wangliann.github.io/icon/tvcx.png" group-title="日韩亚洲",朝鮮放送 HD
-http://39.117.101.80:9981/stream/channelid/1527398470
-#EXTINF:-1 tvg-id="" tvg-name="OBS" tvg-logo="https://wangliann.github.io/icon/" group-title="日韩亚洲",OBS京仁電視 HD
-http://39.117.101.80:9981/stream/channelid/282934051
-#EXTINF:-1 tvg-id="" tvg-name="JIBS SBS" tvg-logo="https://wangliann.github.io/icon/" group-title="日韩亚洲",JIBS SBS HD
-http://119.207.55.114:9981/stream/channelid/245867204
+http://114.29.90.71:9981/stream/channelid/274333099
+#EXTINF:-1 tvg-id="" tvg-name="MNET" tvg-logo="https://wangliann.github.io/icon/mnet.png" group-title="日韩亚洲",MNET音樂頻道 HD
+http://114.29.90.71:9981/stream/channelid/1716097872
+#EXTINF:-1 tvg-id="" tvg-name="OCN" tvg-logo="https://wangliann.github.io/icon/ocn.png" group-title="日韩亚洲",OCN電影放送 HD
+http://114.29.90.71:9981/stream/channelid/1800666627
+#EXTINF:-1 tvg-id="" tvg-name="OCN Movie" tvg-logo="https://wangliann.github.io/icon/ocnmovie.png" group-title="日韩亚洲",OCN電影頻道 HD
+http://114.29.90.71:9981/stream/channelid/1257432319
+#EXTINF:-1 tvg-id="" tvg-name="OCN Thrills" tvg-logo="https://wangliann.github.io/icon/ocnmovie2.png" group-title="日韩亚洲",OCN動作電影 HD
+http://114.29.90.71:9981/stream/channelid/2015103385
+#EXTINF:-1 tvg-id="" tvg-name="코미디TV" tvg-logo="https://wangliann.github.io/icon/comedy.png" group-title="日韩亚洲",Comedy喜劇頻道 HD
+http://114.29.90.71:9981/stream/channelid/644710512
+#EXTINF:-1 tvg-id="" tvg-name="K STAR" tvg-logo="https://wangliann.github.io/icon/kstar.png" group-title="日韩亚洲",K-STAR HD
+http://114.29.90.71:9981/stream/channelid/1240673212
+#EXTINF:-1 tvg-id="" tvg-name="E채널" tvg-logo="https://wangliann.github.io/icon/echannel.png" group-title="日韩亚洲",E教育頻道 HD
+http://114.29.90.71:9981/stream/channelid/327886237
+#EXTINF:-1 tvg-id="" tvg-name="연합뉴스TV" tvg-logo="https://wangliann.github.io/icon/hls.png" group-title="日韩亚洲",韓聯社TV HD
+http://114.29.90.71:9981/stream/channelid/1448233715
+#EXTINF:-1 tvg-id="" tvg-name="YTN" tvg-logo="https://wangliann.github.io/icon/ytn.png" group-title="日韩亚洲",YTN新聞時事 HD
+http://114.29.90.71:9981/stream/channelid/491708539
+#EXTINF:-1 tvg-id="" tvg-name="OLIVE" tvg-logo="https://wangliann.github.io/icon/olive.png" group-title="日韩亚洲",OLIVE生活頻道 HD
+http://114.29.90.71:9981/stream/channelid/1963140820
+#EXTINF:-1 tvg-id="" tvg-name="OnStyle" tvg-logo="https://wangliann.github.io/icon/onstyle.png" group-title="日韩亚洲",OnStyle時尚頻道 HD
+http://114.29.90.71:9981/stream/channelid/1491591458
 #EXTINF:-1 tvg-id="" tvg-name="CNAI亚洲新闻" tvg-logo="https://wangliann.github.io/icon/cna.png" group-title="日韩亚洲",亚洲新闻台 HD
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="U频道" tvg-logo="https://wangliann.github.io/icon/xjpu.png" group-title="日韩亚洲",U频道 HD
