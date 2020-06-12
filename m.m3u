@@ -711,29 +711,29 @@ https://liveicm.utvlive.top/live/72ee37b54d524bcb806957577dfdfd72/fe371c746eb94b
 #EXTINF:-1 tvg-id="" tvg-name="香港有线财经台" tvg-logo="https://wangliann.github.io/icon/yxcj.png" group-title="港澳台高清",有線財經資訊台 HD
 https://liveicm.utvlive.top/live/5bcdb730f6be41868ac15afffbb67152/3d27db5ab65942eda36b25374669990d-3.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="港台電視31" tvg-logo="https://wangliann.github.io/icon/rthk31.png" group-title="港澳台高清",港台電視31 HD
-http://138.19.127.53:9981/stream/channelid/2138944992
+http://42.2.247.24:9981/stream/channelid/572378590
 #EXTINF:-1 tvg-id="" tvg-name="港台電視32" tvg-logo="https://wangliann.github.io/icon/rthk32.png" group-title="港澳台高清",港台電視32 HD
-http://138.19.127.53:9981/stream/channelid/1388277155
+http://42.2.247.24:9981/stream/channelid/2066513625
 #EXTINF:-1 tvg-id="" tvg-name="港台電視33" tvg-logo="https://wangliann.github.io/icon/rthk33.png" group-title="港澳台高清",港台電視33 HD
-http://138.19.127.53:9981/stream/channelid/1186597092
+http://42.2.247.24:9981/stream/channelid/598651404
 #EXTINF:-1 tvg-id="" tvg-name="TVB翡翠" tvg-logo="https://wangliann.github.io/icon/feicui.png" group-title="港澳台高清",翡翠台 HD
-http://138.19.127.53:9981/stream/channelid/1607992587#http://61.238.6.49:8000/bysid/1
+http://42.2.247.24:9981/stream/channelid/605777839#http://61.238.6.49:8000/bysid/1
 #EXTINF:-1 tvg-id="" tvg-name="ViuTVsix" tvg-logo="https://wangliann.github.io/icon/viutv6.png" group-title="港澳台高清",ViuTV6 HD
-http://138.19.127.53:9981/stream/channelid/1803489729#http://61.238.6.49:8000/bysid/96
+http://42.2.247.24:9981/stream/channelid/1557511705#http://61.238.6.49:8000/bysid/96
 #EXTINF:-1 tvg-id="" tvg-name="ViuTV" tvg-logo="https://wangliann.github.io/icon/viutv.png" group-title="港澳台高清",ViuTV HD
-http://138.19.127.53:9981/stream/channelid/573915171#http://61.238.6.49:8000/bysid/99
+http://42.2.247.24:9981/stream/channelid/1580533914#http://61.238.6.49:8000/bysid/99
 #EXTINF:-1 tvg-id="" tvg-name="香港开电视" tvg-logo="https://wangliann.github.io/icon/kaidianshi.png" group-title="港澳台高清",香港開電視 HD
-http://138.19.127.53:9981/stream/channelid/1390210852#http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
+http://42.2.247.24:9981/stream/channelid/1290034841#http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="香港国际财经台" tvg-logo="https://wangliann.github.io/icon/hkibc.png" group-title="港澳台高清",香港國際財經台 HD
-http://138.19.127.53:9981/stream/channelid/1101681951
+http://42.2.247.24:9981/stream/channelid/938108402
 #EXTINF:-1 tvg-id="" tvg-name="TVB新闻" tvg-logo="https://wangliann.github.io/icon/wuxianxinwen.png" group-title="港澳台高清",無線新聞台 HD
-http://138.19.127.53:9981/stream/channelid/482660476#http://www.liveviptv.xyz/tv/tvb.php?vid=wxxw
+http://42.2.247.24:9981/stream/channelid/1234843863#http://www.liveviptv.xyz/tv/tvb.php?vid=wxxw
 #EXTINF:-1 tvg-id="" tvg-name="TVB-J5" tvg-logo="https://wangliann.github.io/icon/wuxiancaijing.png" group-title="港澳台高清",無線財經資訊台 HD
-http://138.19.127.53:9981/stream/channelid/2076112745#http://www.liveviptv.xyz/tv/tvb.php?vid=wxzx
+http://42.2.247.24:9981/stream/channelid/70704260#http://www.liveviptv.xyz/tv/tvb.php?vid=wxzx
 #EXTINF:-1 tvg-id="" tvg-name="TVB-J2" tvg-logo="https://wangliann.github.io/icon/tvbj2.png" group-title="港澳台高清",J2台 HD
-http://138.19.127.53:9981/stream/channelid/2011192701
+http://42.2.247.24:9981/stream/channelid/200149115
 #EXTINF:-1 tvg-id="" tvg-name="TVB明珠" tvg-logo="https://wangliann.github.io/icon/mingzhu.png" group-title="港澳台高清",明珠台 HD
-http://138.19.127.53:9981/stream/channelid/521374115
+http://42.2.247.24:9981/stream/channelid/197368307
 #EXTINF:-1 tvg-id="" tvg-name="星河频道" tvg-logo="https://wangliann.github.io/icon/tvbxinghe.png" group-title="港澳台高清",TVB星河頻道 HD
 http://192.154.103.75:8080/ZZ_xinghe/ZZ_xinghe.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="香港亚视" tvg-logo="https://wangliann.github.io/icon/hkys.png" group-title="港澳台高清",香港亞視 HD
@@ -776,18 +776,17 @@ http://seb.sason.top/sc/ztxw_fhd.m3u8
 http://seb.sason.top/sc/slinews_fhd.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="三立新闻" tvg-logo="https://wangliann.github.io/icon/sanlinew.png" group-title="港澳台高清",三立LIVE新聞 FHD
 http://seb.sason.top/sc/sllive_fhd.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="大愛電視台" tvg-logo="https://wangliann.github.io/icon/daai1.png" group-title="港澳台高清",大愛海外 HD
-https://pulltv3.wanfudaluye.com/live/tv3.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="大爱2台" tvg-logo="https://wangliann.github.io/icon/daai2.png" group-title="港澳台高清",大愛2台 HD
-https://pulltv2.wanfudaluye.com/live/tv2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="beIN Sports1" tvg-logo="https://wangliann.github.io/icon/bein1.png" group-title="港澳台高清",beIN体育1台 HD
 rtmp://xiaoyu.speedws.com/sat/hk011
 #EXTINF:-1 tvg-id="" tvg-name="beIN Sports2" tvg-logo="https://wangliann.github.io/icon/bein2.png" group-title="港澳台高清",beIN体育2台 HD
 rtmp://xiaoyu.speedws.com/sat/hk021
 #EXTINF:-1 tvg-id="" tvg-name="有线18台" tvg-logo="https://wangliann.github.io/icon/hk18.png" group-title="港澳台高清",有線18台 HD
 rtmp://xiaoyu.speedws.com/sat/hk041
+#EXTINF:-1 tvg-id="" tvg-name="民視频道" tvg-logo="https://wangliann.github.io/icon/taishi.png" group-title="港澳台高清",民視 HD
+rtmp://xiaoyu.speedws.com/sat/tv051
 #EXTINF:-1 tvg-id="" tvg-name="台視频道" tvg-logo="https://wangliann.github.io/icon/taishi.png" group-title="港澳台高清",台視 HD
 rtmp://xiaoyu.speedws.com/sat/tv071
+
 #EXTINF:-1 tvg-id="" tvg-name="緯來日本" tvg-logo="https://wangliann.github.io/icon/wlrb.png" group-title="港澳台高清",緯來日本 HD
 rtmp://xiaoyu.speedws.com/sat/tv771
 #EXTINF:-1 tvg-id="" tvg-name="緯來體育" tvg-logo="https://wangliann.github.io/icon/wlty.png" group-title="港澳台高清",緯來體育 HD
@@ -802,14 +801,8 @@ rtmp://xiaoyu.speedws.com/sat/tv731
 rtmp://xiaoyu.speedws.com/sat/tv741
 #EXTINF:-1 tvg-id="" tvg-name="爱尔达体育1" tvg-logo="https://wangliann.github.io/icon/elta1.png" group-title="港澳台高清",ELTA體育1台 HD
 rtmp://xiaoyu.speedws.com/sat/md041
-#EXTINF:-1 tvg-id="" tvg-name="tvbs新闻" tvg-logo="https://wangliann.github.io/icon/tvbsnew.png" group-title="港澳台高清",TVBS新聞 HD
-http://lss.line-scdn.net/cc_tw/p/live/hMtq3_co4E1odJw1KJDIObXcfHGNkewYLcnxbbWlKTD8xcgENJXtZPDlCGztmcwZYcSxVb2FKTmhjP1RfcCpeaDpJUmtgZVUOeTNdP2FVS21qelQMeSw/720/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="民视新闻" tvg-logo="https://wangliann.github.io/icon/minshi4.png" group-title="港澳台高清",民視新聞 HD
-http://lss.line-scdn.net/cc_tw/p/live/hLujcH_D4ElsFdwxLP2IPbGxORD59KQFYPyxaPyAaTT4qelAKOyxYa3AYHml6LFMFO3xUbiASRG19b1Vea3tbNHRNU2p7NVQPYmNcPnoFTmt5IVQNanVc/720/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="東森新聞" tvg-logo="https://wangliann.github.io/icon/dongsengnew.png" group-title="港澳台高清",東森新聞 HD
-http://lss.line-scdn.net/cc_tw/p/live/hfPI16coMOH4kJSZuHDAlSU9LYE9ccH4qH35wEVFIZxsJKCwgTil-GAMYM05eeXl-Si5-SwNIYE1cPX97SCh2GQEbeU9YZ34qQTF2G1lXZURZeX8gSA/720/chunklist.m3u8
-
-
+#EXTINF:-1 tvg-id="" tvg-name="中天新聞" tvg-logo="https://wangliann.github.io/icon/zhongtiannew.png" group-title="港澳台高清",中天新聞 HD
+rtmp://xiaoyu.speedws.com/sat/tv521
 
 
 
