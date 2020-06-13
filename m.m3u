@@ -463,14 +463,60 @@ http://920405.xyz:1234/rtp/239.77.0.111:5146
 
 
 
+#EXTINF:-1,---------------IPV6---------------
+#EXTINF:-1 tvg-id="" tvg-name="纯享4K" tvg-logo="https://wangliann.github.io/icon/cx4k.png" group-title="IPV6",纯享4K
+http://[2001:250:5405:13::47]/PLTV/88888888/224/3221226825/1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV-1(综合)" tvg-logo="https://wangliann.github.io/icon/cctv1.png" group-title="IPV6",CCTV-1综合 HD
+http://[2001:250:5405:13::47]/hls/hls74a2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV-2(经济)" tvg-logo="https://wangliann.github.io/icon/cctv2.png" group-title="IPV6",CCTV-2财经 HD
+http://[2001:250:5405:13::47]/hls/hls135.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV-3(综艺)" tvg-logo="https://wangliann.github.io/icon/cctv3.png" group-title="IPV6",CCTV-3综艺 HD
+http://[2001:250:5405:13::47]/hls/cctv3hd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV-4(国际)" tvg-logo="https://wangliann.github.io/icon/cctv4.png" group-title="IPV6",CCTV-4中文国际 HD
+http://[2001:250:5405:13::47]/hls/hls4.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV-5(体育)" tvg-logo="https://wangliann.github.io/icon/cctv5.png" group-title="IPV6",CCTV-5体育 HD
+http://[2001:250:5405:13::47]/hls/jlu_cctv5hd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV-5+(体育)" tvg-logo="https://wangliann.github.io/icon/cctv5p.png" group-title="IPV6",CCTV-5+体育赛事 HD
+http://[2001:250:5405:13::47]/hls/jlu_cctv5p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV-6(电影)" tvg-logo="https://wangliann.github.io/icon/cctv6.png" group-title="IPV6",CCTV-6电影 HD
+http://[2001:250:5405:13::47]/hls/cctv6hd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV-7(国防军事)" tvg-logo="https://wangliann.github.io/icon/cctv7.png" group-title="IPV6",CCTV-7军事 HD
+http://[2001:250:5405:13::47]/hls/hls136.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV-8(电视剧)" tvg-logo="https://wangliann.github.io/icon/cctv8.png" group-title="IPV6",CCTV-8电视剧 HD
+http://[2001:250:5405:13::47]/hls/cctv8hd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV-9(纪录)" tvg-logo="https://wangliann.github.io/icon/cctv9.png" group-title="IPV6",CCTV-9纪录 HD
+http://[2001:250:5405:13::47]/hls/hls137.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV-10(科技)" tvg-logo="https://wangliann.github.io/icon/cctv10.png" group-title="IPV6",CCTV-10科教 HD
+http://[2001:250:5405:13::47]/hls/hls138.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV-11(戏曲)" tvg-logo="https://wangliann.github.io/icon/cctv11.png" group-title="IPV6",CCTV-11戏曲 HD
+http://[2001:250:5405:13::47]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226334/1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV-12(科教)" tvg-logo="https://wangliann.github.io/icon/cctv12.png" group-title="IPV6",CCTV-12社会与法 HD
+http://[2001:250:5405:13::47]/hls/hls139.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV-14(少儿)" tvg-logo="https://wangliann.github.io/icon/cctv14.png" group-title="IPV6",CCTV-14少儿 HD
+http://[2001:250:5405:13::47]/hls/hls140.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV-15(音乐)" tvg-logo="https://wangliann.github.io/icon/cctv15.png" group-title="IPV6",CCTV-15音乐 HD
+http://[2001:250:5405:13::47]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226333/1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV-17(农业)" tvg-logo="https://wangliann.github.io/icon/cctv17.png" group-title="IPV6",CCTV-17农村农业 HD
+http://[2001:250:5405:13::47]/hls/hls73a8.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CGTN" tvg-logo="https://wangliann.github.io/icon/cgtn.png" group-title="IPV6",CGTN-环球国际 HD
+http://[2001:250:5405:13::47]/hls/hls67a43.m3u8
+
+
+
+
+
+
+
+
+
+
+
 
 
 
 
 
 #EXTINF:-1,---------------ChinaTV SD---------------
-#EXTINF:-1 tvg-id="" tvg-name="CCTV-1(综合)" tvg-logo="https://wangliann.github.io/icon/cctv1.png" group-title="卫视标清",CCTV-1综合 HD
-http://hdtv.lzu6.edu.cn/hls/hls74a2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="延边卫视" tvg-logo="https://wangliann.github.io/icon/ybtv.png" group-title="卫视标清",延边卫视
 http://live.ybtvyun.com/video/s10016-bd6e048a741f/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="延边一台" tvg-logo="https://wangliann.github.io/icon/ybtv1.png" group-title="卫视标清",延边一台
