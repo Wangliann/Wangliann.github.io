@@ -469,6 +469,8 @@ http://920405.xyz:1234/rtp/239.77.0.111:5146
 
 
 #EXTINF:-1,---------------ChinaTV SD---------------
+#EXTINF:-1 tvg-id="" tvg-name="CCTV-1(综合)" tvg-logo="https://wangliann.github.io/icon/cctv1.png" group-title="卫视标清",CCTV-1综合 HD
+http://hdtv.lzu6.edu.cn/hls/hls74a2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="延边卫视" tvg-logo="https://wangliann.github.io/icon/ybtv.png" group-title="卫视标清",延边卫视
 http://live.ybtvyun.com/video/s10016-bd6e048a741f/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="延边一台" tvg-logo="https://wangliann.github.io/icon/ybtv1.png" group-title="卫视标清",延边一台
