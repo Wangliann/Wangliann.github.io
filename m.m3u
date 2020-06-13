@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-id="" tvg-name="CCTV4K" tvg-logo="https://wangliann.github.io/icon/cctv4k.png" group-title="4K专区",CCTV-4K超高清
 http://111.161.121.212/livews-4k.5club.CCTV.cn/live/4K.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV4K" tvg-logo="https://wangliann.github.io/icon/cctv4k.png" group-title="4K专区",CCTV-4K超高清(备用)
-http://221.230.198.175:9981/stream/channelid/455420106
+http://jxiptv.xn--9kqp7k2rd.com/vip/gz.php?id=cctv4k
 #EXTINF:-1 tvg-id="" tvg-name="广东综艺4K" tvg-logo="https://wangliann.github.io/icon/gdzy.png" group-title="4K专区",广东综艺4K
 http://116.26.10.134:9981/stream/channelid/683467656
 #EXTINF:-1 tvg-id="" tvg-name="百视通4K" tvg-logo="https://wangliann.github.io/icon/bestv4k.png" group-title="4K专区",百视通4K
@@ -27,43 +27,43 @@ http://122.97.211.220:8114/FvSeid=59c0f7255fb3c888&Fsv_filetype=1&Fsv_ctype=LIVE
 
 #EXTINF:-1,---------------ChinaTV HD---------------
 #EXTINF:-1 tvg-id="" tvg-name="CCTV-1(综合)" tvg-logo="https://wangliann.github.io/icon/cctv1.png" group-title="卫视高清",CCTV-1综合 HD
-http://112.50.243.8/PLTV/88888888/224/3221226908/1.m3u8
+http://jxiptv.xn--9kqp7k2rd.com/vip/gz.php?id=cctv1hd#http://112.50.243.8/PLTV/88888888/224/3221226908/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV-2(经济)" tvg-logo="https://wangliann.github.io/icon/cctv2.png" group-title="卫视高清",CCTV-2财经 HD
-http://112.50.243.8/PLTV/88888888/224/3221225923/1.m3u8
+http://jxiptv.xn--9kqp7k2rd.com/vip/gz.php?id=cctv2hd#http://112.50.243.8/PLTV/88888888/224/3221225923/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV-3(综艺)" tvg-logo="https://wangliann.github.io/icon/cctv3.png" group-title="卫视高清",CCTV-3综艺 HD
-http://101.71.255.229:6610/zjhs/2/10069/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+http://jxiptv.xn--9kqp7k2rd.com/vip/gz.php?id=cctv3hd#http://101.71.255.229:6610/zjhs/2/10069/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 #EXTINF:-1 tvg-id="" tvg-name="CCTV-4(国际)" tvg-logo="https://wangliann.github.io/icon/cctv4.png" group-title="卫视高清",CCTV-4中文国际 HD
-http://112.50.243.8/PLTV/88888888/224/3221225802/1.m3u8
+http://jxiptv.xn--9kqp7k2rd.com/vip/gz.php?id=cctv4hd#http://112.50.243.8/PLTV/88888888/224/3221225802/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV-4(国际)" tvg-logo="https://wangliann.github.io/icon/cctv4.png" group-title="卫视高清",CCTV-4中文国际欧洲 HD
 http://live.hcs.cmvideo.cn/migu/kailu/20200324/cctv4ouhd/57/index.m3u8?&encrypt=
 #EXTINF:-1 tvg-id="" tvg-name="CCTV-4(国际)" tvg-logo="https://wangliann.github.io/icon/cctv4.png" group-title="卫视高清",CCTV-4中文国际美洲 HD
 http://live.hcs.cmvideo.cn/migu/kailu/20200324/cctv4meihd/57/index.m3u8?&encrypt=
 #EXTINF:-1 tvg-id="" tvg-name="CCTV-5(体育)" tvg-logo="https://wangliann.github.io/icon/cctv5.png" group-title="卫视高清",CCTV-5体育 HD
-http://101.71.255.229:6610/zjhs/2/10076/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+http://jxiptv.xn--9kqp7k2rd.com/vip/gz.php?id=cctv5hd#http://101.71.255.229:6610/zjhs/2/10076/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 #EXTINF:-1 tvg-id="" tvg-name="CCTV-5+(体育)" tvg-logo="https://wangliann.github.io/icon/cctv5p.png" group-title="卫视高清",CCTV-5+体育赛事 HD
 http://112.50.243.8/PLTV/88888888/224/3221225939/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV-6(电影)" tvg-logo="https://wangliann.github.io/icon/cctv6.png" group-title="卫视高清",CCTV-6电影 HD
-http://39.135.140.14:6610/PLTV/88888888/224/3221225843/2/index.m3u8?fmt=ts2hls
+http://jxiptv.xn--9kqp7k2rd.com/vip/gz.php?id=cctv6hd#http://39.135.140.14:6610/PLTV/88888888/224/3221225843/2/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="" tvg-name="CCTV-7(国防军事)" tvg-logo="https://wangliann.github.io/icon/cctv7.png" group-title="卫视高清",CCTV-7军事 HD
-http://112.50.243.8/PLTV/88888888/224/3221225927/1.m3u8
+http://jxiptv.xn--9kqp7k2rd.com/vip/gz.php?id=cctv7hd#http://112.50.243.8/PLTV/88888888/224/3221225927/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV-8(电视剧)" tvg-logo="https://wangliann.github.io/icon/cctv8.png" group-title="卫视高清",CCTV-8电视剧 HD
-http://101.71.255.229:6610/zjhs/2/10062/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+http://jxiptv.xn--9kqp7k2rd.com/vip/gz.php?id=cctv8hd#http://101.71.255.229:6610/zjhs/2/10062/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 #EXTINF:-1 tvg-id="" tvg-name="CCTV-9(纪录)" tvg-logo="https://wangliann.github.io/icon/cctv9.png" group-title="卫视高清",CCTV-9纪录 HD
-http://112.50.243.8/PLTV/88888888/224/3221225820/1.m3u8
+http://jxiptv.xn--9kqp7k2rd.com/vip/gz.php?id=cctv9hd#http://112.50.243.8/PLTV/88888888/224/3221225820/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV-10(科技)" tvg-logo="https://wangliann.github.io/icon/cctv10.png" group-title="卫视高清",CCTV-10科教 HD
-http://101.71.255.229:6610/zjhs/2/10084/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+http://jxiptv.xn--9kqp7k2rd.com/vip/gz.php?id=cctv10hd#http://101.71.255.229:6610/zjhs/2/10084/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 #EXTINF:-1 tvg-id="" tvg-name="CCTV-11(戏曲)" tvg-logo="https://wangliann.github.io/icon/cctv11.png" group-title="卫视高清",CCTV-11戏曲 HD
 http://112.50.243.8/PLTV/88888888/224/3221225815/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV-12(科教)" tvg-logo="https://wangliann.github.io/icon/cctv12.png" group-title="卫视高清",CCTV-12社会与法 HD
-http://112.50.243.8/PLTV/88888888/224/3221225932/1.m3u8
+http://jxiptv.xn--9kqp7k2rd.com/vip/gz.php?id=cctv12hd#http://112.50.243.8/PLTV/88888888/224/3221225932/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV-13(新闻)" tvg-logo="https://wangliann.github.io/icon/cctv13.png" group-title="卫视高清",CCTV-13新闻 HD
 http://210.22.242.108/live-cnc-cdn.ysp.cctv.cn/ysp/2000204603.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV-14(少儿)" tvg-logo="https://wangliann.github.io/icon/cctv14.png" group-title="卫视高清",CCTV-14少儿 HD
-http://112.50.243.8/PLTV/88888888/224/3221225933/1.m3u8
+http://jxiptv.xn--9kqp7k2rd.com/vip/gz.php?id=cctv14hd#http://112.50.243.8/PLTV/88888888/224/3221225933/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV-15(音乐)" tvg-logo="https://wangliann.github.io/icon/cctv15.png" group-title="卫视高清",CCTV-15音乐 HD
 http://112.50.243.8/PLTV/88888888/224/3221225818/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV-17(农业)" tvg-logo="https://wangliann.github.io/icon/cctv17.png" group-title="卫视高清",CCTV-17农村农业 HD
-http://112.50.243.8/PLTV/88888888/224/3221226986/1.m3u8
+http://jxiptv.xn--9kqp7k2rd.com/vip/gz.php?id=cctv17#http://112.50.243.8/PLTV/88888888/224/3221226986/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV4K" tvg-logo="https://wangliann.github.io/icon/cctv4k.png" group-title="卫视高清",CCTV-4K HD
 http://210.22.242.108/live-cnc-cdn.ysp.cctv.cn/ysp/2000266303.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CGTN" tvg-logo="https://wangliann.github.io/icon/cgtn.png" group-title="卫视高清",CGTN-环球国际 HD
