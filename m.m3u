@@ -158,6 +158,274 @@ http://tv.sason.xyz/proxy/fh.php?id=zx
 http://tv.sason.xyz/proxy/fh.php?id=hk
 
 
+#EXTINF:-1,---------------GuangDong IPTV---------------
+#EXTINF:-1 tvg-id="" tvg-name="广东综艺4K" tvg-logo="https://wangliann.github.io/icon/gdzy.png" group-title="广东电信",广东综艺4K
+http://920405.xyz:1234/udp/239.77.0.245:5146#http://920405.xyz:1234/udp/239.77.0.153:5146
+#EXTINF:-1 tvg-id="" tvg-name="广东综艺4K" tvg-logo="https://wangliann.github.io/icon/gdzy.png" group-title="广东电信",广东4K花园
+http://920405.xyz:1234/udp/239.77.0.233:5146
+#EXTINF:-1 tvg-id="" tvg-name="爱上4K" tvg-logo="https://wangliann.github.io/icon/love4k.png" group-title="广东电信",爱上4K
+http://920405.xyz:1234/udp/239.253.43.219:5146
+#EXTINF:-1 tvg-id="" tvg-name="极K影视" tvg-logo="https://wangliann.github.io/icon/jytv1.png" group-title="广东电信",极K影视 4K
+http://920405.xyz:1234/udp/239.253.43.218:5146
+#EXTINF:-1 tvg-id="" tvg-name="极K精选" tvg-logo="https://wangliann.github.io/icon/jytv2.png" group-title="广东电信",极K精选 4K
+http://920405.xyz:1234/udp/239.77.0.231:5146
+#EXTINF:-1 tvg-id="" tvg-name="极K记录" tvg-logo="https://wangliann.github.io/icon/jytv3.png" group-title="广东电信",极K记录 4K
+http://920405.xyz:1234/udp/239.77.0.231:5146
+#EXTINF:-1 tvg-id="" tvg-name="CCTV第一剧场" tvg-logo="https://wangliann.github.io/icon/dyjc.png" group-title="广东电信",CCTV-第一剧场 HD
+http://113.71.138.195:9981/stream/channelid/1048537405
+#EXTINF:-1 tvg-id="" tvg-name="CCTV怀旧剧场" tvg-logo="https://wangliann.github.io/icon/hjjc.png" group-title="广东电信",CCTV-怀旧剧场 HD
+http://113.71.138.195:9981/stream/channelid/551921643
+#EXTINF:-1 tvg-id="" tvg-name="CCTV风云剧场" tvg-logo="https://wangliann.github.io/icon/fyjc.png" group-title="广东电信",CCTV-风云剧场 HD
+http://113.71.138.195:9981/stream/channelid/367428980
+#EXTINF:-1 tvg-id="" tvg-name="CCTV风云足球" tvg-logo="https://wangliann.github.io/icon/fyzq.png" group-title="广东电信",CCTV-风云足球 HD
+http://113.71.138.195:9981/stream/channelid/1909303758
+#EXTINF:-1 tvg-id="" tvg-name="CCTV风云音乐" tvg-logo="https://wangliann.github.io/icon/fyyy.png" group-title="广东电信",CCTV-风云音乐 HD
+http://113.71.138.195:9981/stream/channelid/1450919247
+#EXTINF:-1 tvg-id="" tvg-name="CCTV世界地理" tvg-logo="https://wangliann.github.io/icon/sjdl.png" group-title="广东电信",CCTV-世界地理 HD
+http://113.71.138.195:9981/stream/channelid/1594110809
+#EXTINF:-1 tvg-id="" tvg-name="CCTV兵器科技" tvg-logo="https://wangliann.github.io/icon/bqkj.png" group-title="广东电信",CCTV-兵器科技 HD
+http://113.71.138.195:9981/stream/channelid/1461396577
+#EXTINF:-1 tvg-id="" tvg-name="CCTV央视台球" tvg-logo="https://wangliann.github.io/icon/ystq.png" group-title="广东电信",CCTV-央视台球 HD
+http://113.71.138.195:9981/stream/channelid/594749860
+#EXTINF:-1 tvg-id="" tvg-name="CCTV卫生健康" tvg-logo="https://wangliann.github.io/icon/wsjk.png" group-title="广东电信",CCTV-卫生健康 HD
+http://113.71.138.195:9981/stream/channelid/1221027058
+#EXTINF:-1 tvg-id="" tvg-name="CCTV文化精品" tvg-logo="https://wangliann.github.io/icon/ysjp.png" group-title="广东电信",CCTV-央视精品 HD
+http://113.71.138.195:9981/stream/channelid/495313474
+#EXTINF:-1 tvg-id="" tvg-name="CCTV女性时尚" tvg-logo="https://wangliann.github.io/icon/nxss.png" group-title="广东电信",CCTV-女性时尚 HD
+http://113.71.138.195:9981/stream/channelid/1550366640
+#EXTINF:-1 tvg-id="" tvg-name="CCTV高尔夫网球" tvg-logo="https://wangliann.github.io/icon/gef.png" group-title="广东电信",CCTV-高尔夫网球
+http://113.71.138.195:9981/stream/channelid/764185430
+#EXTINF:-1 tvg-id="" tvg-name="CCTV-1(综合)" tvg-logo="https://wangliann.github.io/icon/cctv1.png" group-title="广东电信",CCTV-1综合 HD
+http://920405.xyz:1234/rtp/239.77.0.86:5146
+#EXTINF:-1 tvg-id="" tvg-name="CCTV-2(经济)" tvg-logo="https://wangliann.github.io/icon/cctv2.png" group-title="广东电信",CCTV-2财经 HD
+http://113.71.138.195:9981/stream/channelid/1820857960
+#EXTINF:-1 tvg-id="" tvg-name="CCTV-3(综艺)" tvg-logo="https://wangliann.github.io/icon/cctv3.png" group-title="广东电信",CCTV-3综艺 HD
+http://113.71.138.195:9981/stream/channelid/1355049967
+#EXTINF:-1 tvg-id="" tvg-name="CCTV-4(国际)" tvg-logo="https://wangliann.github.io/icon/cctv4.png" group-title="广东电信",CCTV-4中文国际 HD
+http://920405.xyz:1234/rtp/239.77.0.78:5146
+#EXTINF:-1 tvg-id="" tvg-name="CCTV-5(体育)" tvg-logo="https://wangliann.github.io/icon/cctv5.png" group-title="广东电信",CCTV-5体育 HD
+http://113.71.138.195:9981/stream/channelid/1271940530
+#EXTINF:-1 tvg-id="" tvg-name="CCTV-5+(体育)" tvg-logo="https://wangliann.github.io/icon/cctv5p.png" group-title="广东电信",CCTV-5+体育赛事 HD
+http://113.71.138.195:9981/stream/channelid/1640736043
+#EXTINF:-1 tvg-id="" tvg-name="CCTV-6(电影)" tvg-logo="https://wangliann.github.io/icon/cctv6.png" group-title="广东电信",CCTV-6电影 HD
+http://113.71.138.195:9981/stream/channelid/1487356051
+#EXTINF:-1 tvg-id="" tvg-name="CCTV-7(国防军事)" tvg-logo="https://wangliann.github.io/icon/cctv7.png" group-title="广东电信",CCTV-7军事 HD
+http://920405.xyz:1234/rtp/239.77.0.87:5146
+#EXTINF:-1 tvg-id="" tvg-name="CCTV-8(电视剧)" tvg-logo="https://wangliann.github.io/icon/cctv8.png" group-title="广东电信",CCTV-8电视剧 HD
+http://113.71.138.195:9981/stream/channelid/507495992
+#EXTINF:-1 tvg-id="" tvg-name="CCTV-9(纪录)" tvg-logo="https://wangliann.github.io/icon/cctv9.png" group-title="广东电信",CCTV-9纪录 HD
+http://113.71.138.195:9981/stream/channelid/371814387
+#EXTINF:-1 tvg-id="" tvg-name="CCTV-10(科技)" tvg-logo="https://wangliann.github.io/icon/cctv10.png" group-title="广东电信",CCTV-10科教 HD
+http://113.71.138.195:9981/stream/channelid/317720064
+#EXTINF:-1 tvg-id="" tvg-name="CCTV-11(戏曲)" tvg-logo="https://wangliann.github.io/icon/cctv11.png" group-title="广东电信",CCTV-11戏曲 HD
+http://113.71.138.195:9981/stream/channelid/1686113469
+#EXTINF:-1 tvg-id="" tvg-name="CCTV-12(科教)" tvg-logo="https://wangliann.github.io/icon/cctv12.png" group-title="广东电信",CCTV-12社会与法 HD
+http://113.71.138.195:9981/stream/channelid/605885298
+#EXTINF:-1 tvg-id="" tvg-name="CCTV-13(新闻)" tvg-logo="https://wangliann.github.io/icon/cctv13.png" group-title="广东电信",CCTV-13新闻
+http://920405.xyz:1234/rtp/239.77.0.42:5146
+#EXTINF:-1 tvg-id="" tvg-name="CCTV-14(少儿)" tvg-logo="https://wangliann.github.io/icon/cctv14.png" group-title="广东电信",CCTV-14少儿 HD
+http://113.71.138.195:9981/stream/channelid/26123222
+#EXTINF:-1 tvg-id="" tvg-name="CCTV-15(音乐)" tvg-logo="https://wangliann.github.io/icon/cctv15.png" group-title="广东电信",CCTV-15音乐 HD
+http://113.71.138.195:9981/stream/channelid/1107050330
+#EXTINF:-1 tvg-id="" tvg-name="CCTV-17(农业)" tvg-logo="https://wangliann.github.io/icon/cctv17.png" group-title="广东电信",CCTV-17农村农业 HD
+http://113.71.138.195:9981/stream/channelid/1168074208
+#EXTINF:-1 tvg-id="" tvg-name="CHC高清电影" tvg-logo="https://wangliann.github.io/icon/chc1.png" group-title="广东电信",CHC高清电影
+http://920405.xyz:1234/rtp/239.77.0.27:5146
+#EXTINF:-1 tvg-id="" tvg-name="中国教育台" tvg-logo="https://wangliann.github.io/icon/cetv1.png" group-title="广东电信",中国教育一台 HD
+http://113.71.138.195:9981/stream/channelid/2086173757
+#EXTINF:-1 tvg-id="" tvg-name="湖南卫视" tvg-logo="https://wangliann.github.io/icon/hntv.png" group-title="广东电信",湖南卫视 HD
+http://920405.xyz:1234/rtp/239.77.0.88:5146
+#EXTINF:-1 tvg-id="" tvg-name="江苏卫视" tvg-logo="https://wangliann.github.io/icon/jstv.png" group-title="广东电信",江苏卫视 HD
+http://920405.xyz:1234/rtp/239.77.0.90:5146
+#EXTINF:-1 tvg-id="" tvg-name="浙江卫视" tvg-logo="https://wangliann.github.io/icon/zjtv.png" group-title="广东电信",浙江卫视 HD
+http://920405.xyz:1234/rtp/239.77.0.89:5146
+#EXTINF:-1 tvg-id="" tvg-name="东方卫视" tvg-logo="https://wangliann.github.io/icon/dftv.png" group-title="广东电信",东方卫视 HD
+http://920405.xyz:1234/rtp/239.77.0.98:5146
+#EXTINF:-1 tvg-id="" tvg-name="广东卫视" tvg-logo="https://wangliann.github.io/icon/gdtv.png" group-title="广东电信",广东卫视 HD
+http://920405.xyz:1234/rtp/239.77.0.84:5146
+#EXTINF:-1 tvg-id="" tvg-name="深圳卫视" tvg-logo="https://wangliann.github.io/icon/sztv.png" group-title="广东电信",深圳卫视 HD
+http://920405.xyz:1234/rtp/239.77.0.92:5146
+#EXTINF:-1 tvg-id="" tvg-name="湖北卫视" tvg-logo="https://wangliann.github.io/icon/hbtv.png" group-title="广东电信",湖北卫视 HD
+http://920405.xyz:1234/rtp/239.77.0.95:5146
+#EXTINF:-1 tvg-id="" tvg-name="北京卫视" tvg-logo="https://wangliann.github.io/icon/bjtv.png" group-title="广东电信",北京卫视 HD
+http://920405.xyz:1234/rtp/239.77.0.91:5146
+#EXTINF:-1 tvg-id="" tvg-name="天津卫视" tvg-logo="https://wangliann.github.io/icon/tjtv.png" group-title="广东电信",天津卫视 HD
+http://920405.xyz:1234/rtp/239.77.0.97:5146
+#EXTINF:-1 tvg-id="" tvg-name="山东卫视" tvg-logo="https://wangliann.github.io/icon/sdtv.png" group-title="广东电信",山东卫视 HD
+http://920405.xyz:1234/rtp/239.77.0.94:5146
+#EXTINF:-1 tvg-id="" tvg-name="黑龙江卫视" tvg-logo="https://wangliann.github.io/icon/hljtv.png" group-title="广东电信",黑龙江卫视 HD
+http://920405.xyz:1234/rtp/239.77.0.93:5146
+#EXTINF:-1 tvg-id="" tvg-name="安徽卫视" tvg-logo="https://wangliann.github.io/icon/ahtv.png" group-title="广东电信",安徽卫视 HD
+http://113.71.138.195:9981/stream/channelid/910977830
+#EXTINF:-1 tvg-id="" tvg-name="江西卫视" tvg-logo="https://wangliann.github.io/icon/jxtv.png" group-title="广东电信",江西卫视 HD
+http://113.71.138.195:9981/stream/channelid/355209287
+#EXTINF:-1 tvg-id="" tvg-name="东南卫视" tvg-logo="https://wangliann.github.io/icon/dntv.png" group-title="广东电信",东南卫视 HD
+http://113.71.138.195:9981/stream/channelid/2108665785
+#EXTINF:-1 tvg-id="" tvg-name="四川卫视" tvg-logo="https://wangliann.github.io/icon/sctv.png" group-title="广东电信",四川卫视 HD
+http://113.71.138.195:9981/stream/channelid/1252106836
+#EXTINF:-1 tvg-id="" tvg-name="河北卫视" tvg-logo="https://wangliann.github.io/icon/hbws.png" group-title="广东电信",河北卫视 HD
+http://113.71.138.195:9981/stream/channelid/681314941
+#EXTINF:-1 tvg-id="" tvg-name="河南卫视" tvg-logo="https://wangliann.github.io/icon/hnws.png" group-title="广东电信",河南卫视 HD
+http://113.71.138.195:9981/stream/channelid/1539661504
+#EXTINF:-1 tvg-id="" tvg-name="贵州卫视" tvg-logo="https://wangliann.github.io/icon/gztv.png" group-title="广东电信",贵州卫视 HD
+http://113.71.138.195:9981/stream/channelid/1721182083
+#EXTINF:-1 tvg-id="" tvg-name="辽宁卫视" tvg-logo="https://wangliann.github.io/icon/lntv.png" group-title="广东电信",辽宁卫视 HD
+http://113.71.138.195:9981/stream/channelid/178856566
+#EXTINF:-1 tvg-id="" tvg-name="重庆卫视" tvg-logo="https://wangliann.github.io/icon/cqtv.png" group-title="广东电信",重庆卫视 HD
+http://113.71.138.195:9981/stream/channelid/336278343
+#EXTINF:-1 tvg-id="" tvg-name="广西卫视" tvg-logo="https://wangliann.github.io/icon/gxtv.png" group-title="广东电信",广西卫视 HD
+http://113.71.138.195:9981/stream/channelid/1147400401
+#EXTINF:-1 tvg-id="" tvg-name="吉林卫视" tvg-logo="https://wangliann.github.io/icon/jltv.png" group-title="广东电信",吉林卫视 HD
+http://113.71.138.195:9981/stream/channelid/409962623
+#EXTINF:-1 tvg-id="" tvg-name="上海纪实" tvg-logo="https://wangliann.github.io/icon/jishi.png" group-title="广东电信",上海纪实人文 HD
+http://113.71.138.195:9981/stream/channelid/921703728
+#EXTINF:-1 tvg-id="" tvg-name="北京纪实" tvg-logo="https://wangliann.github.io/icon/bjjs.png" group-title="广东电信",北京冬奥纪实 HD
+http://113.71.138.195:9981/stream/channelid/1377129569
+#EXTINF:-1 tvg-id="" tvg-name="金鹰纪实" tvg-logo="https://wangliann.github.io/icon/jyjs.png" group-title="广东电信",金鹰纪实 HD
+http://113.71.138.195:9981/stream/channelid/660096672
+#EXTINF:-1 tvg-id="" tvg-name="广东体育" tvg-logo="https://wangliann.github.io/icon/gdty.png" group-title="广东电信",广东体育 HD
+http://113.71.138.195:9981/stream/channelid/747559038
+#EXTINF:-1 tvg-id="" tvg-name="广东经视" tvg-logo="https://wangliann.github.io/icon/gdjs.png" group-title="广东电信",广东经济科教 HD
+http://920405.xyz:1234/rtp/239.77.0.85:5146
+#EXTINF:-1 tvg-id="" tvg-name="珠江卫视" tvg-logo="https://wangliann.github.io/icon/gdzj.png" group-title="广东电信",广东珠江 HD
+http://920405.xyz:1234/rtp/239.77.0.1:5146
+#EXTINF:-1 tvg-id="" tvg-name="深圳体育" tvg-logo="https://wangliann.github.io/icon/sztv3.png" group-title="广东电信",深圳体育 HD
+http://920405.xyz:1234/udp/239.77.1.128:5146
+#EXTINF:-1 tvg-id="" tvg-name="深圳公共" tvg-logo="https://wangliann.github.io/icon/sztv4.png" group-title="广东电信",深圳公共 HD
+http://920405.xyz:1234/udp/239.77.1.178:5146
+#EXTINF:-1 tvg-id="" tvg-name="深圳娱乐" tvg-logo="https://wangliann.github.io/icon/sztv5.png" group-title="广东电信",深圳娱乐 HD
+http://920405.xyz:1234/udp/239.77.1.243:5146
+#EXTINF:-1 tvg-id="" tvg-name="深圳少儿" tvg-logo="https://wangliann.github.io/icon/sztv6.png" group-title="广东电信",深圳少儿 HD
+http://920405.xyz:1234/udp/239.77.1.244:5146
+#EXTINF:-1 tvg-id="" tvg-name="深圳电视剧" tvg-logo="https://wangliann.github.io/icon/sztv7.png" group-title="广东电信",深圳电视剧 HD
+http://920405.xyz:1234/udp/239.77.1.177:5146
+#EXTINF:-1 tvg-id="" tvg-name="深圳财经" tvg-logo="https://wangliann.github.io/icon/sztv8.png" group-title="广东电信",深圳财经 HD
+http://920405.xyz:1234/udp/239.77.1.242:5146
+#EXTINF:-1 tvg-id="" tvg-name="深圳都市" tvg-logo="https://wangliann.github.io/icon/sztv9.png" group-title="广东电信",深圳都市 HD
+http://920405.xyz:1234/udp/239.77.1.176:5146
+#EXTINF:-1 tvg-id="" tvg-name="深圳宝安" tvg-logo="https://wangliann.github.io/icon/sztv10.png" group-title="广东电信",深圳宝安 HD
+http://920405.xyz:1234/udp/239.77.1.67:5146
+#EXTINF:-1 tvg-id="" tvg-name="深圳龙岗" tvg-logo="https://wangliann.github.io/icon/sztv11.png" group-title="广东电信",深圳龙岗 HD
+http://920405.xyz:1234/udp/239.77.1.223:5146
+#EXTINF:-1 tvg-id="" tvg-name="深圳东部" tvg-logo="https://wangliann.github.io/icon/sztv1.png" group-title="广东电信",深圳东部 HD
+http://920405.xyz:1234/udp/239.77.1.224:5146
+#EXTINF:-1 tvg-id="" tvg-name="深圳众创" tvg-logo="https://wangliann.github.io/icon/sztv2.png" group-title="广东电信",深圳众创 HD
+http://920405.xyz:1234/udp/239.77.1.247:5146
+#EXTINF:-1 tvg-id="" tvg-name="宜和购物" tvg-logo="https://wangliann.github.io/icon/sztv12.png" group-title="广东电信",深圳宜和购物 HD
+http://920405.xyz:1234/udp/239.77.1.87:5146
+#EXTINF:-1 tvg-id="" tvg-name="珠海一台" tvg-logo="https://wangliann.github.io/icon/zhuhai.png" group-title="广东电信",珠海一台 HD
+http://113.71.138.195:9981/stream/channelid/241624326
+#EXTINF:-1 tvg-id="" tvg-name="珠海二台" tvg-logo="https://wangliann.github.io/icon/zhuhai1.png" group-title="广东电信",珠海二台 HD
+http://113.71.138.195:9981/stream/channelid/1705466854
+#EXTINF:-1 tvg-id="" tvg-name="惠州一台" tvg-logo="https://wangliann.github.io/icon/huizhou.png" group-title="广东电信",惠州一台 HD
+http://920405.xyz:1234/udp/239.77.1.232:5146
+#EXTINF:-1 tvg-id="" tvg-name="惠州二台" tvg-logo="https://wangliann.github.io/icon/huizhou1.png" group-title="广东电信",惠州二台 HD
+http://920405.xyz:1234/udp/239.77.1.233:5146
+#EXTINF:-1 tvg-id="" tvg-name="韶关综合" tvg-logo="https://wangliann.github.io/icon/shaoguan.png" group-title="广东电信",韶关综合 HD
+http://920405.xyz:1234/udp/239.77.0.117:5146
+#EXTINF:-1 tvg-id="" tvg-name="韶关公共" tvg-logo="https://wangliann.github.io/icon/shaoguan1.png" group-title="广东电信",韶关公共 HD
+http://920405.xyz:1234/udp/239.77.0.119:5146
+#EXTINF:-1 tvg-id="" tvg-name="肇庆综合" tvg-logo="https://wangliann.github.io/icon/zhaoqing.png" group-title="广东电信",肇庆综合 HD
+http://920405.xyz:1234/udp/239.253.43.1:5146
+#EXTINF:-1 tvg-id="" tvg-name="肇庆公共" tvg-logo="https://wangliann.github.io/icon/zhaoqing1.png" group-title="广东电信",肇庆公共 HD
+http://920405.xyz:1234/udp/239.253.43.2:5146
+#EXTINF:-1 tvg-id="" tvg-name="湛江综合" tvg-logo="https://wangliann.github.io/icon/zhanjiang.png" group-title="广东电信",湛江综合 HD
+http://113.71.138.195:9981/stream/channelid/31316157
+#EXTINF:-1 tvg-id="" tvg-name="湛江公共" tvg-logo="https://wangliann.github.io/icon/zhanjiang1.png" group-title="广东电信",湛江公共 HD
+http://113.71.138.195:9981/stream/channelid/1465008435
+#EXTINF:-1 tvg-id="" tvg-name="河源综合" tvg-logo="https://wangliann.github.io/icon/heyuan.png" group-title="广东电信",河源综合 HD
+http://920405.xyz:1234/udp/239.253.43.213:5146
+#EXTINF:-1 tvg-id="" tvg-name="河源公共" tvg-logo="https://wangliann.github.io/icon/heyuan1.png" group-title="广东电信",河源公共 HD
+http://920405.xyz:1234/udp/239.253.43.214:5146
+#EXTINF:-1 tvg-id="" tvg-name="汕头综合" tvg-logo="https://wangliann.github.io/icon/shantou1.png" group-title="广东电信",汕头综合 HD
+http://920405.xyz:1234/udp/239.77.1.130:5146
+#EXTINF:-1 tvg-id="" tvg-name="汕头经济" tvg-logo="https://wangliann.github.io/icon/shantou3.png" group-title="广东电信",汕头经济 HD
+http://920405.xyz:1234/udp/239.77.1.131:5146
+#EXTINF:-1 tvg-id="" tvg-name="汕头公共" tvg-logo="https://wangliann.github.io/icon/shantou2.png" group-title="广东电信",汕头公共 HD
+http://920405.xyz:1234/udp/239.77.1.132:5146
+#EXTINF:-1 tvg-id="" tvg-name="南方购物" tvg-logo="https://wangliann.github.io/icon/nfgw.png" group-title="广东电信",南方购物 HD
+http://920405.xyz:1234/rtp/239.77.0.19:5146#http://920405.xyz:1234/rtp/239.77.0.22:5146
+#EXTINF:-1 tvg-id="" tvg-name="茶频道" tvg-logo="https://wangliann.github.io/icon/hnctv.png" group-title="广东电信",茶频道 HD
+http://920405.xyz:1234/rtp/239.77.0.15:5146
+#EXTINF:-1 tvg-id="" tvg-name="广东新闻" tvg-logo="https://wangliann.github.io/icon/gdxw.png" group-title="广东电信",广东新闻
+http://920405.xyz:1234/rtp/239.77.0.4:5146
+#EXTINF:-1 tvg-id="" tvg-name="广东公共" tvg-logo="https://wangliann.github.io/icon/gdgg.png" group-title="广东电信",广东公共
+http://920405.xyz:1234/rtp/239.77.0.5:5146
+#EXTINF:-1 tvg-id="" tvg-name="广东体育" tvg-logo="https://wangliann.github.io/icon/gdty.png" group-title="广东电信",广东体育
+http://920405.xyz:1234/rtp/239.77.0.6:5146
+#EXTINF:-1 tvg-id="" tvg-name="广东国际" tvg-logo="https://wangliann.github.io/icon/gdgj.png" group-title="广东电信",广东国际
+http://920405.xyz:1234/rtp/239.77.0.7:5146
+#EXTINF:-1 tvg-id="" tvg-name="广东经视" tvg-logo="https://wangliann.github.io/icon/gdjs.png" group-title="广东电信",广东经视
+http://920405.xyz:1234/rtp/239.77.0.8:5146
+#EXTINF:-1 tvg-id="" tvg-name="南方影视" tvg-logo="https://wangliann.github.io/icon/gdys.png" group-title="广东电信",广东影视
+http://920405.xyz:1234/rtp/239.77.0.11:5146
+#EXTINF:-1 tvg-id="" tvg-name="广东少儿" tvg-logo="https://wangliann.github.io/icon/gdse.png" group-title="广东电信",广东少儿
+http://920405.xyz:1234/rtp/239.77.0.12:5146
+#EXTINF:-1 tvg-id="" tvg-name="嘉佳卡通" tvg-logo="https://wangliann.github.io/icon/jjkt.png" group-title="广东电信",广东嘉佳卡通
+http://920405.xyz:1234/rtp/239.77.0.13:5146
+#EXTINF:-1 tvg-id="" tvg-name="广东房产" tvg-logo="https://wangliann.github.io/icon/gdfc.png" group-title="广东电信",广东房产
+http://920405.xyz:1234/rtp/239.77.0.14:5146
+#EXTINF:-1 tvg-id="" tvg-name="岭南戏曲" tvg-logo="https://wangliann.github.io/icon/gdxq.png" group-title="广东电信",广东岭南戏曲
+http://920405.xyz:1234/rtp/239.77.0.16:5146
+#EXTINF:-1 tvg-id="" tvg-name="英语辅导" tvg-logo="https://wangliann.github.io/icon/gdyyfd.png" group-title="广东电信",广东英语辅导
+http://920405.xyz:1234/rtp/239.77.0.17:5146
+#EXTINF:-1 tvg-id="" tvg-name="现代教育" tvg-logo="https://wangliann.github.io/icon/gdxdjy.png" group-title="广东电信",广东现代教育
+http://920405.xyz:1234/rtp/239.77.0.18:5146
+#EXTINF:-1 tvg-id="" tvg-name="广东移动" tvg-logo="https://wangliann.github.io/icon/gdyd.png" group-title="广东电信",广东移动
+http://920405.xyz:1234/rtp/239.77.0.20:5146
+#EXTINF:-1 tvg-id="" tvg-name="南方卫视" tvg-logo="https://wangliann.github.io/icon/nftv.png" group-title="广东电信",南方卫视
+http://920405.xyz:1234/rtp/239.77.0.9:5146
+#EXTINF:-1 tvg-id="" tvg-name="延边卫视" tvg-logo="https://wangliann.github.io/icon/ybtv.png" group-title="广东电信",延边卫视
+http://920405.xyz:1234/rtp/239.77.0.10:5146
+#EXTINF:-1 tvg-id="" tvg-name="中国教育2台" tvg-logo="https://wangliann.github.io/icon/cetv2.png" group-title="广东电信",中国教育2台
+http://920405.xyz:1234/rtp/239.77.0.28:5146
+#EXTINF:-1 tvg-id="" tvg-name="中国教育4台" tvg-logo="https://wangliann.github.io/icon/cetv4.png" group-title="广东电信",中国教育4台
+http://920405.xyz:1234/rtp/239.77.0.29:5146
+#EXTINF:-1 tvg-id="" tvg-name="云南卫视" tvg-logo="https://wangliann.github.io/icon/yntv.png" group-title="广东电信",云南卫视
+http://920405.xyz:1234/rtp/239.77.0.62:5146
+#EXTINF:-1 tvg-id="" tvg-name="陕西卫视" tvg-logo="https://wangliann.github.io/icon/sxtv.png" group-title="广东电信",陕西卫视
+http://920405.xyz:1234/rtp/239.77.0.68:5146
+#EXTINF:-1 tvg-id="" tvg-name="山西卫视" tvg-logo="https://wangliann.github.io/icon/sxws.png" group-title="广东电信",山西卫视
+http://920405.xyz:1234/rtp/239.77.0.69:5146
+#EXTINF:-1 tvg-id="" tvg-name="内蒙古卫视" tvg-logo="https://wangliann.github.io/icon/nmgtv.png" group-title="广东电信",内蒙古卫视
+http://920405.xyz:1234/rtp/239.77.0.70:5146
+#EXTINF:-1 tvg-id="" tvg-name="青海卫视" tvg-logo="https://wangliann.github.io/icon/qhtv.png" group-title="广东电信",青海卫视
+http://920405.xyz:1234/rtp/239.77.0.71:5146
+#EXTINF:-1 tvg-id="" tvg-name="旅游卫视" tvg-logo="https://wangliann.github.io/icon/lytv.png" group-title="广东电信",海南卫视 HD
+http://920405.xyz:1234/rtp/239.77.0.72:5146
+#EXTINF:-1 tvg-id="" tvg-name="宁夏卫视" tvg-logo="https://wangliann.github.io/icon/nxtv.png" group-title="广东电信",宁夏卫视 HD
+http://920405.xyz:1234/rtp/239.77.0.73:5146
+#EXTINF:-1 tvg-id="" tvg-name="西藏卫视" tvg-logo="https://wangliann.github.io/icon/xztv.png" group-title="广东电信",西藏卫视
+http://920405.xyz:1234/rtp/239.77.0.74:5146
+#EXTINF:-1 tvg-id="" tvg-name="新疆卫视" tvg-logo="https://wangliann.github.io/icon/xjtv.png" group-title="广东电信",新疆卫视
+http://920405.xyz:1234/rtp/239.77.0.75:5146
+#EXTINF:-1 tvg-id="" tvg-name="甘肃卫视" tvg-logo="https://wangliann.github.io/icon/gstv.png" group-title="广东电信",甘肃卫视
+http://920405.xyz:1234/rtp/239.77.0.76:5146
+#EXTINF:-1 tvg-id="" tvg-name="兵团卫视" tvg-logo="https://wangliann.github.io/icon/bttv.png" group-title="广东电信",兵团卫视
+http://920405.xyz:1234/rtp/239.77.0.77:5146
+#EXTINF:-1 tvg-id="" tvg-name="BTV卡酷" tvg-logo="https://wangliann.github.io/icon/kkkt.png" group-title="广东电信",卡酷少儿
+http://920405.xyz:1234/rtp/239.77.0.79:5146
+#EXTINF:-1 tvg-id="" tvg-name="金鹰卡通" tvg-logo="https://wangliann.github.io/icon/jykt.png" group-title="广东电信",金鹰卡通
+http://920405.xyz:1234/rtp/239.77.0.80:5146
+#EXTINF:-1 tvg-id="" tvg-name="炫动卡通" tvg-logo="https://wangliann.github.io/icon/xdkt.png" group-title="广东电信",哈哈炫动
+http://920405.xyz:1234/rtp/239.77.0.81:5146
+#EXTINF:-1 tvg-id="" tvg-name="山东教育" tvg-logo="https://wangliann.github.io/icon/sdjy.png" group-title="广东电信",山东教育
+http://920405.xyz:1234/rtp/239.77.0.83:5146
+#EXTINF:-1 tvg-id="" tvg-name="厦门卫视" tvg-logo="https://wangliann.github.io/icon/xmtv.png" group-title="广东电信",厦门卫视
+http://920405.xyz:1234/rtp/239.77.0.96:5146
+#EXTINF:-1 tvg-id="" tvg-name="IPTV谍战剧场" tvg-logo="https://wangliann.github.io/icon/iptv2.png" group-title="广东电信",IPTV谍战剧场
+http://920405.xyz:1234/rtp/239.77.0.99:5146
+#EXTINF:-1 tvg-id="" tvg-name="IPTV相声小品" tvg-logo="https://wangliann.github.io/icon/iptv3.png" group-title="广东电信",IPTV相声小品
+http://920405.xyz:1234/rtp/239.77.0.100:5146
+#EXTINF:-1 tvg-id="" tvg-name="IPTV野外" tvg-logo="https://wangliann.github.io/icon/iptv4.png" group-title="广东电信",IPTV野外
+http://920405.xyz:1234/rtp/239.77.0.101:5146
+#EXTINF:-1 tvg-id="" tvg-name="IPTV法治" tvg-logo="https://wangliann.github.io/icon/iptv5.png" group-title="广东电信",IPTV法治
+http://920405.xyz:1234/rtp/239.77.0.102:5146
+#EXTINF:-1 tvg-id="" tvg-name="IPTV6+" tvg-logo="https://wangliann.github.io/icon/iptv6.png" group-title="广东电信",IPTV6+
+http://920405.xyz:1234/rtp/239.77.0.102:5146
+
+
+
 
 
 
