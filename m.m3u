@@ -151,11 +151,11 @@ http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CHC家庭影院" tvg-logo="https://wangliann.github.io/icon/chc3.png" group-title="卫视高清",CHC家庭影院
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="凤凰卫视" tvg-logo="https://wangliann.github.io/icon/fhzw.png" group-title="卫视高清",凤凰中文 HD
-http://zzq12345.gearhostpreview.com/11/ifeng.php?id=zwhd
+http://tv.sason.xyz/proxy/fh.php?id=zw
 #EXTINF:-1 tvg-id="" tvg-name="凤凰资讯" tvg-logo="https://wangliann.github.io/icon/fhzx.png" group-title="卫视高清",凤凰资讯 HD
-http://zzq12345.gearhostpreview.com/11/ifeng.php?id=zxhd
+http://tv.sason.xyz/proxy/fh.php?id=zx
 #EXTINF:-1 tvg-id="" tvg-name="凤凰香港" tvg-logo="https://wangliann.github.io/icon/fhxg.png" group-title="卫视高清",凤凰香港 HD
-http://zzq12345.gearhostpreview.com/11/ifeng.php?id=hkhd
+http://tv.sason.xyz/proxy/fh.php?id=hk
 
 
 
@@ -707,9 +707,9 @@ http://120.221.5.113:8089/PLTV/88888888/224/3221226071/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="香港有线新聞台" tvg-logo="https://wangliann.github.io/icon/yxxw.png" group-title="港澳台高清",有線新聞台 HD
 http://liveicm.utvlive.top/live/4cc64fb362004798b222978935590b2c/1980ba5c365e4f049f99aced1277303c-3.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="香港有线娱乐台" tvg-logo="https://wangliann.github.io/icon/yxyl.png" group-title="港澳台高清",有線娛樂台 HD
-https://liveicm.utvlive.top/live/72ee37b54d524bcb806957577dfdfd72/fe371c746eb94b01b7fb0e70569a2e9f-3.m3u8
+https://liveicm.utvlive.top/live/72ee37b54d524bcb806957577dfdfd72/fe371c746eb94b01b7fb0e70569a2e9f.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="香港有线财经台" tvg-logo="https://wangliann.github.io/icon/yxcj.png" group-title="港澳台高清",有線財經資訊台 HD
-https://liveicm.utvlive.top/live/5bcdb730f6be41868ac15afffbb67152/3d27db5ab65942eda36b25374669990d-3.m3u8
+https://liveicm.utvlive.top/live/5bcdb730f6be41868ac15afffbb67152/3d27db5ab65942eda36b25374669990d.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="港台電視31" tvg-logo="https://wangliann.github.io/icon/rthk31.png" group-title="港澳台高清",港台電視31 HD
 http://42.2.247.24:9981/stream/channelid/572378590
 #EXTINF:-1 tvg-id="" tvg-name="港台電視32" tvg-logo="https://wangliann.github.io/icon/rthk32.png" group-title="港澳台高清",港台電視32 HD
