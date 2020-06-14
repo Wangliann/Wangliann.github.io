@@ -558,9 +558,10 @@ http://222.128.66.194:4022/rtp/239.3.1.95:8001
 http://222.128.66.194:4022/rtp/239.3.1.100:8001
 #EXTINF:-1 tvg-id="" tvg-name="淘BABY" tvg-logo="https://wangliann.github.io/icon/iptv12.png" group-title="北京联通",淘BABY HD
 http://222.128.66.194:4022/rtp/239.3.1.238:8001
-#EXTINF:-1 tvg-id="" tvg-name="4K超清" tvg-logo="https://wangliann.github.io/icon/iptv14.png" group-title="北京联通",4K超清 HD
-http://222.128.66.194:4022/rtp/239.3.1.249:8001
-
+#EXTINF:-1 tvg-id="" tvg-name="密云综合" tvg-logo="https://wangliann.github.io/icon/" group-title="北京联通",密云综合 HD
+http://222.128.66.194:4022/rtp/239.3.1.154:8001
+#EXTINF:-1 tvg-id="" tvg-name="房山综合" tvg-logo="https://wangliann.github.io/icon/" group-title="北京联通",房山综合 HD
+http://222.128.66.194:4022/rtp/239.3.1.96:8001
 
 
 
