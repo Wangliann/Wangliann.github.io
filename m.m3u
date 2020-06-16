@@ -4,7 +4,7 @@ http://111.161.121.212/livews-4k.5club.CCTV.cn/live/4K.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="百视通4K" tvg-logo="https://wangliann.github.io/icon/bestv4k.png" group-title="4K专区",百视通4K
 http://117.148.187.46/PLTV/88888888/224/3221226718/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DOX-4K" tvg-logo="https://wangliann.github.io/icon/dox4k.png" group-title="4K专区",DOX4K
-http://39.135.16.150:6610/PLTV/88888888/224/3221226019//index.m3u8?fmt=ts2hls
+http://39.135.19.139:18890/PLTV/88888888/224/3221226019//index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="" tvg-name="纯享4K" tvg-logo="https://wangliann.github.io/icon/cx4k.png" group-title="4K专区",纯享4K
 http://39.134.115.163:8080/PLTV/88888910/224/3221225786/index.m3u8#http://112.50.243.8/PLTV/88888888/224/3221226825/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="4K音乐现场" tvg-logo="https://wangliann.github.io/icon/jxiptv.png" group-title="4K专区",江西4K音乐现场
