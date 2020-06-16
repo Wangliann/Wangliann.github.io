@@ -121,7 +121,7 @@ http://39.135.34.134:8080/000000001000/5000000004000006211/index.m3u8?channel-id
 #EXTINF:-1 tvg-id="" tvg-name="青海卫视" tvg-logo="https://wangliann.github.io/icon/qhtv.png" group-title="卫视高清",青海卫视 HD
 http://live.geermurmt.com/qhws/sd/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="新疆卫视" tvg-logo="https://wangliann.github.io/icon/xjtv.png" group-title="卫视高清",新疆卫视 HD
-http://tv.boye.ml/iptv/xjtv.php?id=1
+http://www.dszbdq.cn/diao/xinjiang.php?id=1
 #EXTINF:-1 tvg-id="" tvg-name="山西卫视" tvg-logo="https://wangliann.github.io/icon/sxws.png" group-title="卫视高清",山西卫视 HD
 http://218.26.208.218:9981/stream/channelid/3464833#http://112.50.243.8/PLTV/88888888/224/3221225839/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="炫动卡通" tvg-logo="https://wangliann.github.io/icon/xdkt.png" group-title="卫视高清",哈哈炫动卫视 HD
