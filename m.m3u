@@ -158,6 +158,12 @@ http://tv.sason.xyz/proxy/fh.php?id=zw
 http://tv.sason.xyz/proxy/fh.php?id=zx
 #EXTINF:-1 tvg-id="" tvg-name="凤凰香港" tvg-logo="https://wangliann.github.io/icon/fhxg.png" group-title="广东联通",凤凰香港 HD
 http://tv.sason.xyz/proxy/fh.php?id=hk
+#EXTINF:-1 tvg-id="" tvg-name="广东少儿" tvg-logo="https://wangliann.github.io/icon/gdse.png" group-title="广东联通",广东少儿
+http://120.87.19.109/PLTV/88888973/224/3221225727/10000100000000060000000000334183_0.smil/index.m3u8?rrsip=120.87.4.103&fmt=ts2hls&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2&accountinfo=udrrLnUbHf8ElVH6k15UZsjP6h%2BaqrAyZ92NJC6gS6vUBMy3jgMEH56%2Bw54Ti3pz93gdt5wr0%2BH3c5IxIwiqTHtYy1S92BnY0vfpFRRdWIFjf90p2VqgXSzDBTCxn2ZT%3A20200619205409%2C9075514184055%2C27.38.52.14%2C20200619205409%2C10000100000000050000000000296665%2CAA2C29B228954A9CA9EE412C43D09811%2C-1%2C1%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND
+#EXTINF:-1 tvg-id="" tvg-name="家政频道" tvg-logo="https://wangliann.github.io/icon/gdse.png" group-title="广东联通",家政频道 HD
+http://stream.slave.jxtvnet.tv:14311/playurl?accesstoken=R5DC2A42FU309BB004K7738E848ICA43ED17PBM345713AV0Z57EA5W15D48CE92ED319F0&playtype=live&protocol=http&playtoken=ABCDEFGH&auth=no&programid=4200000108.m3u8
+
+
 
 
 
@@ -668,11 +674,11 @@ http://106.54.30.243/gz009/gz.php?id=wsgjdy
 http://106.54.30.243/gz009/gz.php?id=v
 #EXTINF:-1 tvg-id="" tvg-name="国家地理" tvg-logo="https://wangliann.github.io/icon/ngo.png" group-title="贵州广电",国家地理
 http://106.54.30.243/gz009/gz.php?id=gjdl
-#EXTINF:-1 tvg-id="" tvg-name="AXN台湾" tvg-logo="https://wangliann.github.io/icon/ngo.png" group-title="贵州广电",AXN台湾
+#EXTINF:-1 tvg-id="" tvg-name="AXN台湾" tvg-logo="https://wangliann.github.io/icon/axn.png" group-title="贵州广电",AXN台湾
 http://106.54.30.243/gz009/gz.php?id=axn
-#EXTINF:-1 tvg-id="" tvg-name="CINEMAX电影" tvg-logo="https://wangliann.github.io/icon/ngo.png" group-title="贵州广电",CINEMAX电影
+#EXTINF:-1 tvg-id="" tvg-name="CINEMAX电影" tvg-logo="https://wangliann.github.io/icon/cinemax.png" group-title="贵州广电",CINEMAX电影
 http://106.54.30.243/gz009/gz.php?id=cinemax
-#EXTINF:-1 tvg-id="" tvg-name="探索频道" tvg-logo="https://wangliann.github.io/icon/ngo.png" group-title="贵州广电",探索频道
+#EXTINF:-1 tvg-id="" tvg-name="探索频道" tvg-logo="https://wangliann.github.io/icon/discovery.png" group-title="贵州广电",探索频道
 http://106.54.30.243/gz009/gz.php?id=ts
 #EXTINF:-1 tvg-id="" tvg-name="HBO电影HD" tvg-logo="https://wangliann.github.io/icon/hbo.png" group-title="贵州广电",HBO家庭影院
 http://106.54.30.243/gz009/gz.php?id=hbo
