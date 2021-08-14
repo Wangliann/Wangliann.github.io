@@ -1,3 +1,4 @@
+#EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi||R{SSM}|
 #EXTINF:-1 group-title="FOX & HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/Fox_movies_arabia_(bein).png", FOX MOVIES
