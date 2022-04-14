@@ -1,37 +1,167 @@
 #EXTM3U
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=19a1cf0746cab453b5209892ddbf0010&key=42fb52739bf87e74dbdc872c492191b5
-#EXTINF:-1 tvg-id="338" tvg-logo="https://linear-poster.astro.com.my/prod/logo/UHUUAction.png" group-title="MOVIE",UHUU ACTION!
-http://linearjitp-playback.astro.com.my/dash-wv/linear/5065/default_ott.mpd
-#EXTINF:-1 tvg-id="108" ch-number="AstroCitra.my" group-title="Malaysia" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png",Astro Citra HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=73e84f91bd9ae20412e370f98fd3a110&key=d5b52aabca5afe002eb495804f8ec944
-https://prd-vcache.edge-hk.akamai.tvb.com/__cl/slocalr2625/__c/ott_C_h264/__op/default/__f/index_admarker.m3u8
-#EXTINF:-1 tvg-id="104" ch-number="104" group-title="Malaysia" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_RIA_v1.png",Astro Ria HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=5f437ad29765f253325a84298d9f0d10&key=d8e36aeb7416a20a124c2d132c8f74f9
-https://prd-vcache.edge-hk.akamai.tvb.com/__cl/slocalr2625/__c/ott_I-FINA_h264/__op/default/__f/index_admarker.m3u8
-#EXTINF:-1 tvg-id="107" ch-number="107" group-title="Malaysia" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png",Astro Warna HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=40bb94cdb1c90f6cc15073d9a500c810&key=264de3f18e64770e92a2d29f2b177701
-http://prd-vcache.edge-hk.akamai.tvb.com/__cl/slocalr2625/__c/ott_I-XIHE_h264/__op/default/__f/index_admarker.m3u8
-#EXTINF:-1 tvg-id="811" ch-number="811" group-title="Sports" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_SuperSport_v1.png",Astro SuperSport HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=6d2d84310d3fb9230404a1fbf5b33d10&key=8be93a0a6b41efad87096080bc55211a
-#http://linears-playback.astro.com.my/vsg/41XZfLTCby3RfLmcXtLfs4Q8L1c6YQpN-O5WVos5P9lfM=tvXK/dash-wv/jitp-linearwm/601/default_primary.mpd
-https://live.astradamy.com/astro/s1/index.mpd
-#EXTINF:-1 tvg-id="812" ch-number="812" group-title="Sports" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_SuperSport2_v1.png",Astro SuperSport 2 HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=369ee7aba1e1504f85366b899d81ef10&key=299fbf0f774920858ff4fabf0afbe6b7
-#https://linears-playback.astro.com.my/vsg/4107v3HTgyovsplXuaKhUdF0OqSUlgC6TH1e84FWYF78E=3xZI/dash-wv/jitp-linearwm/2104/default_primary.mpd
-https://live.astradamy.com/astro/s2/index.mpd
-#EXTINF:-1 tvg-id="813" ch-number="813" group-title="Sports" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_SuperSport3_v1.png",Astro SuperSport 3 HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=a522db0e2c8b90c38b64187018648a10&key=cf66fd59fe28f45418628313e06d52da
-#https://linears-playback.astro.com.my/vsg/41U664KSFf68CzBohLjeRnpNRmKVtxo3ODtT1NH6uyJw4=RZZB/dash-wv/jitp-linearwm/2701/default_primary.mpd
-https://live.astradamy.com/astro/s3/index.mpd
-#EXTINF:-1 tvg-id="814" ch-number="814" group-title="Sports" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_SuperSport4_v1.png",Astro SuperSport 4 HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=0f38843b85760decb7a30fde6af3ff10&key=9c50a5c2b6219463f05c5d8f9f42892e
-#http://linears-playback.astro.com.my/vsg/41ySv-uJdscPRjEaM0CnSDbDq7F1kmuANeTScwKu5cJBs=7Cq-/dash-wv/jitp-linearwm/2506/default_primary.mpd
-https://live.astradamy.com/astro/s4/index.mpd
+#EXTINF:-1,(HD) AXN
+http://222.104.38.117:9981/stream/channelid/57?ticket=ABD4C963EC94B239E6DA851990F27958BEF79D34
+#EXTINF:-1,(HD) BTN불교TV
+http://222.104.38.117:9981/stream/channelid/51?ticket=A4BB79356C04B013A7D6EF3E676B5425307EF0AC
+#EXTINF:-1,(HD) CBS
+http://222.104.38.117:9981/stream/channelid/53?ticket=F2A287200E2CEA11F0DD2B7043B48974B8A63629
+#EXTINF:-1,(HD) CJ오쇼핑
+http://222.104.38.117:9981/stream/channelid/8?ticket=B27D5D9339B19B1CBE19CCC43B297C6B1C040126
+#EXTINF:-1,(HD) CMCTV
+http://222.104.38.117:9981/stream/channelid/29?ticket=F05B4BA0D004BDEA22E1D2B6930CEEACE6A2E8AA
+#EXTINF:-1,(HD) CTS기독교TV
+http://222.104.38.117:9981/stream/channelid/54?ticket=9234CACA7F06800F0B2A5AC3F22C2696B871FD2D
+#EXTINF:-1,(HD) D.ONE
+http://222.104.38.117:9981/stream/channelid/31?ticket=DE06E044B926F12C440EA9334BA54503F9E396C2
+#EXTINF:-1,(HD) EDGE TV
+http://222.104.38.117:9981/stream/channelid/75?ticket=23C334BA9B716ED9D5982BEAE86EDD7F8B915C77
+#EXTINF:-1,(HD) FOX채널
+http://222.104.38.117:9981/stream/channelid/30?ticket=D91C3F6DB69D8494D638767AFB7704AA4FDFD747
+#EXTINF:-1,(HD) FTV
+http://222.104.38.117:9981/stream/channelid/70?ticket=22C1DAEF8966C8CCDC34CD5B12E7DDDA532F7BAA
+#EXTINF:-1,(HD) GS SHOP
+http://222.104.38.117:9981/stream/channelid/9?ticket=F391CA9F7FCBEE598CC72940EB6A81D22955D7A9
+#EXTINF:-1,(HD) GTV
+http://222.104.38.117:9981/stream/channelid/69?ticket=37DEC2B1CE966E26513BE9F9531FBBE577F72156
+#EXTINF:-1,(HD) Highlight
+http://222.104.38.117:9981/stream/channelid/41?ticket=E153490B0EB5AD7E0F3DDF9154674065A7020136
+#EXTINF:-1,(HD) I NET
+http://222.104.38.117:9981/stream/channelid/32?ticket=EF7FE4ACFB8A063FDFC2150D7F1F675F96BA2023
+#EXTINF:-1,(HD) JEI재능방송
+http://222.104.38.117:9981/stream/channelid/34?ticket=93C2F4AF24534644160A68E89300E11C6E7C6272
+#EXTINF:-1,(HD) JTBC
+http://222.104.38.117:9981/stream/channelid/16?ticket=40F4739D2F12AE7C2D9A749CEE019A00B90CFCAB
+#EXTINF:-1,(HD) JTBC2
+http://222.104.38.117:9981/stream/channelid/19?ticket=03632F8715B1402253BCBCAE8D86F31C0429D550
+#EXTINF:-1,(HD) K STAR
+http://222.104.38.117:9981/stream/channelid/55?ticket=785D8041C4FD349E82D847656EEF377BB6F0784E
+#EXTINF:-1,(HD) KBS드라마
+http://222.104.38.117:9981/stream/channelid/40?ticket=33CCE6CE6691F26D7CA47F5A58B570CDCA065737
+#EXTINF:-1,(HD) KTV국민방송
+http://222.104.38.117:9981/stream/channelid/71?ticket=F9F50D39C63EC5523C03C4CD4A4FF1D2EB769AA1
+#EXTINF:-1,(HD) K쇼핑
+http://222.104.38.117:9981/stream/channelid/20?ticket=865967D77A2C08104006E032E3EC913758D8A32A
+#EXTINF:-1,(HD) MBC M
+http://222.104.38.117:9981/stream/channelid/65?ticket=B290AE8E069E5BFA46756F930C90F54A02E78D77
+#EXTINF:-1,(HD) MBC SPORTS+
+http://222.104.38.117:9981/stream/channelid/67?ticket=C0D06D61E79C18707AB2341F60FBE468B1968ADD
+#EXTINF:-1,(HD) MBC 에브리원
+http://222.104.38.117:9981/stream/channelid/2?ticket=E7E97EA6A49EB15ADF538352A26F07F42229ED82
+#EXTINF:-1,(HD) MBN
+http://222.104.38.117:9981/stream/channelid/12?ticket=FE605336E009FEFC4613003F34050E7F973A62EA
+#EXTINF:-1,(HD) NS홈쇼핑
+http://222.104.38.117:9981/stream/channelid/13?ticket=F56A5BCB9E131DFEF80E43AB5DEDAAC4E0DC5762
+#EXTINF:-1,(HD) OCN
+http://222.104.38.117:9981/stream/channelid/48?ticket=B956939BD29EE9B9DD59E9FCD0EA56FB535B00C7
+#EXTINF:-1,(HD) OCN 무비
+http://222.104.38.117:9981/stream/channelid/47?ticket=AED6E962CF7AE2B0CBCA0BC75DCA961E7B2379C3
+#EXTINF:-1,(HD) OCN 스릴
+http://222.104.38.117:9981/stream/channelid/62?ticket=D54C659DCDAAA420CD06E51B239C7196C539C77A
+#EXTINF:-1,(HD) OLIVE
+http://222.104.38.117:9981/stream/channelid/37?ticket=A991FA62E113411189CCDF47C3BCC7487EBBF9D3
+#EXTINF:-1,(HD) ONT
+http://222.104.38.117:9981/stream/channelid/23?ticket=3E2A40CB6EF88160D4E6F6601E4B71F4C3B9BBEF
+#EXTINF:-1,(HD) On Style
+http://222.104.38.117:9981/stream/channelid/63?ticket=3CE564ECD3AAE820EDED48FA90CB6BD1A40EB433
+#EXTINF:-1,(HD) SBS Plus
+http://222.104.38.117:9981/stream/channelid/43?ticket=275AF1E177151B8DEE6000B793192C1B99AEA9C6
+#EXTINF:-1,(HD) SBS Sports
+http://222.104.38.117:9981/stream/channelid/61?ticket=189125777274064FEEC894E46FDD79016D02000A
+#EXTINF:-1,(HD) SK 스토아
+http://222.104.38.117:9981/stream/channelid/36?ticket=D9D3A8BCF7F5F6DCC14F9E755615474D2DC582A3
+#EXTINF:-1,(HD) Screen
+http://222.104.38.117:9981/stream/channelid/45?ticket=25FE86125B9A93EE303EEB3E1DFB8D71E3279EA1
+#EXTINF:-1,(HD) SmileTV
+http://222.104.38.117:9981/stream/channelid/26?ticket=36152D190B2C8F4CE703F9B87B3CD948C5D682A2
+#EXTINF:-1,(HD) TRENDY
+http://222.104.38.117:9981/stream/channelid/25?ticket=4337E1215DFE435B6986F8B538C50DE9081ED0C8
+#EXTINF:-1,(HD) TVasia
+http://222.104.38.117:9981/stream/channelid/56?ticket=B4ACA570229CA3137E2ACF896CA15275BBF98A21
+#EXTINF:-1,(HD) TV조선
+http://222.104.38.117:9981/stream/channelid/17?ticket=DB80CFB27C93F6B2A7000718589AFC530DC50599
+#EXTINF:-1,(HD) TV조선2
+http://222.104.38.117:9981/stream/channelid/42?ticket=BD848A4982EA7305C1D387891F538768A0EE06AE
+#EXTINF:-1,(HD) W쇼핑
+http://222.104.38.117:9981/stream/channelid/33?ticket=36BB6BECB26BC13D7080B3A8A246E25E0F23B3AA
+#EXTINF:-1,(HD) XtvN
+http://222.104.38.117:9981/stream/channelid/46?ticket=605E980D225BE47D1ED263DCF3DEC42F06D42889
+#EXTINF:-1,(HD) YTN
+http://222.104.38.117:9981/stream/channelid/22?ticket=12ECDE2FB6558B239485DABD8946734BA77F0595
+#EXTINF:-1,(HD) e-채널
+http://222.104.38.117:9981/stream/channelid/28?ticket=1E73C29A46A1398858DFE82D8CFD41E90A32BB3D
+#EXTINF:-1,(HD) tvN
+http://222.104.38.117:9981/stream/channelid/4?ticket=25ABD2182B51C100563F2668D86E278D27183D09
+#EXTINF:-1,(HD) 가톨릭평화방송
+http://222.104.38.117:9981/stream/channelid/52?ticket=6FDDC5DDCD478676A6684C81EFEDA907AD49EF6E
+#EXTINF:-1,(HD) 공영쇼핑
+http://222.104.38.117:9981/stream/channelid/18?ticket=70B30D3603036EDA4C76CE17B352D18594B6B1E6
+#EXTINF:-1,(HD) 국회방송
+http://222.104.38.117:9981/stream/channelid/72?ticket=B698500C49BEB87679BC9A1DDD0DCBF47313BDAB
+#EXTINF:-1,(HD) 드라마H
+http://222.104.38.117:9981/stream/channelid/66?ticket=50B0B0AE69E39EEEE7C67D73A2A069920A689FA0
+#EXTINF:-1,(HD) 드라맥스
+http://222.104.38.117:9981/stream/channelid/44?ticket=FCE70BA6D19DFF6601D6987058456497404BECC7
+#EXTINF:-1,(HD) 롯데OneTV
+http://222.104.38.117:9981/stream/channelid/50?ticket=49EA26EF610A273738E0F6DBD6F4E7EA86FCE635
+#EXTINF:-1,(HD) 롯데홈쇼핑
+http://222.104.38.117:9981/stream/channelid/7?ticket=EBDCDF55A91D3A1046BD0AA54F7BB6E631A1D562
+#EXTINF:-1,(HD) 리얼TV
+http://222.104.38.117:9981/stream/channelid/39?ticket=D15F5411BBC7AA1E0945D6EF5BFAFA8E51A97D1A
+#EXTINF:-1,(HD) 매일경제TV
+http://222.104.38.117:9981/stream/channelid/64?ticket=455CBFD49C13FBC62B376AD16C38A3E61B358674
+#EXTINF:-1,(HD) 방송대학TV
+http://222.104.38.117:9981/stream/channelid/60?ticket=ADC6CDE0F22363587C50E0491D55DBA9532E836C
+#EXTINF:-1,(HD) 복지TV
+http://222.104.38.117:9981/stream/channelid/49?ticket=B2CC1E028D8CC630EFFF6F0554AED3E7DB2FEB7B
+#EXTINF:-1,(HD) 서울경제TV
+http://222.104.38.117:9981/stream/channelid/35?ticket=A21E0A943B95BDFBD448E3F2B0AF92A996811BBB
+#EXTINF:-1,(HD) 쇼핑엔티
+http://222.104.38.117:9981/stream/channelid/10?ticket=9919C1BB975CF0A995D6DF67D3782C71B0428426
+#EXTINF:-1,(HD) 신세계쇼핑
+http://222.104.38.117:9981/stream/channelid/6?ticket=3642306A51398798F5D868BBF485E2BFB8A32FCC
+#EXTINF:-1,(HD) 아리랑TV
+http://222.104.38.117:9981/stream/channelid/73?ticket=3FDEA0D02792E8D40D9AB3BF087076C65F2EC5B8
+#EXTINF:-1,(HD) 애니맥스
+http://222.104.38.117:9981/stream/channelid/59?ticket=F9191E54940B080C3187BB5B50DC2843B61F4C56
+#EXTINF:-1,(HD) 연합뉴스TV
+http://222.104.38.117:9981/stream/channelid/21?ticket=8B4CA7A7E8DF8E38D8D87730E24118B99940880F
+#EXTINF:-1,(HD) 채널A
+http://222.104.38.117:9981/stream/channelid/11?ticket=4DAA260F2824BF1A8220EF50225D69E61CDF47F8
+#EXTINF:-1,(HD) 채널칭
+http://222.104.38.117:9981/stream/channelid/24?ticket=76D346573508DB4A1E894F1CBE33FC6CCAB0E0F7
+#EXTINF:-1,(HD) 코미디TV
+http://222.104.38.117:9981/stream/channelid/27?ticket=0FB1F095E251AC9C61454FF6AF6E41FBBF209C7B
+#EXTINF:-1,(HD) 투니버스
+http://222.104.38.117:9981/stream/channelid/76?ticket=A912D156DDB8DEE489442D1C68BCED0E04F27D5F
+#EXTINF:-1,(HD) 패션앤
+http://222.104.38.117:9981/stream/channelid/68?ticket=A787D5849FF85BC7E8F20F5D748E841737629B2C
+#EXTINF:-1,(HD) 헬스메디TV
+http://222.104.38.117:9981/stream/channelid/74?ticket=B644047DA02B8EF9AA96040E2D6D51ABED2C2AD8
+#EXTINF:-1,(HD) 현대HCN금호
+http://222.104.38.117:9981/stream/channelid/3?ticket=4F4FA0FFF41B426D9BD698DAD095E130864709C6
+#EXTINF:-1,(HD) 현대홈쇼핑
+http://222.104.38.117:9981/stream/channelid/5?ticket=D95160E886A48740BF3DDB6D7F96E90960AE0FED
+#EXTINF:-1,(HD) 현대홈쇼핑+Shop
+http://222.104.38.117:9981/stream/channelid/15?ticket=FF6EDFE7310CF9E84C294FD0C6864F89C69B511E
+#EXTINF:-1,(HD) 홈&쇼핑
+http://222.104.38.117:9981/stream/channelid/14?ticket=CC8CEA93E3669C8506C5A454C3630FFCC57629E3
+#EXTINF:-1,EBS +1
+http://222.104.38.117:9981/stream/channelid/1?ticket=1BD6CE0DF2CA5A473AEE9C5D3D02C434EB2456A6
+#EXTINF:-1,EBS +2
+http://222.104.38.117:9981/stream/channelid/58?ticket=B9733FBEDE7E47E81725D11383837D08357B6D57
+#EXTINF:-1,EBS Digital
+http://222.104.38.117:9981/stream/channelid/82?ticket=24352C6C7681DCEB4497EC12C362B12388B1EA30
+#EXTINF:-1,EBS Digital 
+http://222.104.38.117:9981/stream/channelid/83?ticket=9ECA8B2792282A15BAEF3DED0649ABE7FC1F778B
+#EXTINF:-1,MBC DTV
+http://222.104.38.117:9981/stream/channelid/81?ticket=C1572FCFEF8D75D8A30084D7705BCD6378BA6039
+#EXTINF:-1,SBS funE
+http://222.104.38.117:9981/stream/channelid/38?ticket=7DBE204D3B05B5BD9616BF4A61691207CB4336EA
+#EXTINF:-1,TBC HDTV
+http://222.104.38.117:9981/stream/channelid/78?ticket=2E22CFE13ADA9A560ABA417484A3DC376C20154A
+#EXTINF:-1,대구 KBS1
+http://222.104.38.117:9981/stream/channelid/80?ticket=1066D6436B5FF21325F8D6E440386F8C7C11834B
+#EXTINF:-1,대구 KBS2
+http://222.104.38.117:9981/stream/channelid/79?ticket=666AC634A0B1A0D4033AAD72B99403B3572CAD95
+#EXTINF:-1,한국직업방송
+http://222.104.38.117:9981/stream/channelid/77?ticket=161FE98F0B264ED5F593B3C7189B3AE7CF0968BE
