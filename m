@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 logo="http://171.224.239.249:9981/imagecache/20" tvg-id="234b4a980dd8e5fcbefb453d7d684a95",Animax Asia HD
-https://edge6a.v2h-cdn.com/RE_TVB/smil:asia_action_abr.smil/manifest.mpd
 #EXTINF:-1 tvg-id="40f065fa0bc883f20778c4f0386ddb01" tvg-chno="1.1",CMB
 http://14.39.73.173:9981/stream/channelid/2053500992?profile=pass
 #EXTINF:-1 tvg-id="58f5abcffd45d936f5421890e4723ebd" tvg-chno="1.2",가이드채널
@@ -387,3 +385,47 @@ http://14.39.73.173:9981/stream/channelid/440886025?profile=pass
 http://14.39.73.173:9981/stream/channelid/544600516?profile=pass
 #EXTINF:-1 tvg-id="2b6b3741367cda25021d559fde5f07bc" tvg-chno="99.3",BBS불교방송
 http://14.39.73.173:9981/stream/channelid/1094150955?profile=pass
+#EXTINF:-1 group-title="ทีวี ดิจิตอล" tvg-logo="https://www.i-pic.info/i/OBIC70725.png",TNN16
+http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/16/16.mpd
+#EXTINF:-1,tvg-logo="https://overseer.blackboxsys.net/images/png/hd-ch7.png",CH7HD
+http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/35/35.mpd
+#EXTINF:-1,tvg-logo="https://overseer.blackboxsys.net/images/png/hd-thairath.png",ไทยรัฐ
+http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/32/32.mpd
+#EXTINF:-1,tvg-logo="https://overseer.blackboxsys.net/images/png/hd-amarin.png",อมรินทร์
+http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/34/34.mpd
+#EXTINF:-1,tvg-logo="https://overseer.blackboxsys.net/images/png/hd-ch3.png",CH3
+http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/33/33.mpd
+#EXTINF:-1,tvg-logo="https://overseer.blackboxsys.net/images/png/sd-gmmchannel.png",GMM
+http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/25/25.mpd
+#EXTINF:-1,tvg-logo="https://overseer.blackboxsys.net/images/png/hd-workpoint.png",Workpoint23
+http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/23/23.mpd
+#EXTINF:-1,tvg-logo="https://overseer.blackboxsys.net/images/png/sd-24u.png",True 4
+http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/24/24.mpd
+#EXTINF:-1,tvg-logo="https://overseer.blackboxsys.net/images/png/hd-pptv.png",PPTV
+http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/36/36.mpd
+#EXTINF:-1,tvg-logo="https://overseer.blackboxsys.net/images/png/hd-ch8.png",ช่อง8
+http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/27/27.mpd
+#EXTINF:-1,tvg-logo="https://overseer.blackboxsys.net/images/png/hd-mono.png",Mono29
+http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/29/29.mpd
+#EXTINF:-1,tvg-logo="https://overseer.blackboxsys.net/images/png/hd-gmmone.png",ONE31 HD
+http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/31/31.mpd
+#EXTINF:-1,tvg-logo="https://dl.dropbox.com/s/b90iwhlh5qt6oaq/PicsArt_01-08-10.16.35.png?dl=0", TSPOT
+http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/7/7.mpd
+#EXTINF:-1,tvg-logo="https://dl.dropbox.com/s/r3w2y88645rdvup/3bbsportsone.png?dl=0",3BB
+http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/401/401.mpd
+#EXTINF:-1,tvg-logo="https://dl.dropbox.com/s/76q5n8lal8xvdr2/e0f0129dc552ce18c6e279b8fcfd011d.png?dl=0", HBO
+http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/103/103.mpd
+#EXTINF:-1,tvg-logo="https://dl.dropbox.com/s/vdb9vf46c1kqra8/hd-cinemax.png?dl=0",MAX MOVIE
+http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/107/107.mpd
+#EXTINF:-1,tvg-logo="https://dl.dropbox.com/s/z5rvib2torcfx87/3BBAsian.png?dl=0",3BB
+http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/101/101.mpd
+#EXTINF:-1,tvg-logo="https://dl.dropbox.com/s/u3ro4vsdr0g3s2n/picsart_01-08-10.37.51.png",EDGE
+http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/403/403.mpd
+#EXTINF:-1,tvg-logo="https://dl.dropbox.com/s/q6mxghecyhwd9yy/IMG_20211210_165134.png?dl",MONO+
+http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/109/109.mpd
+#EXTINF:-1,tvg-logo="https://dl.dropbox.com/s/mht34t9792549p1/IMG_20211218_062837.png?dl",MONOMUSIC
+http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/202/202.mpd
+#EXTINF:-1,tvg-logo="https://dl.dropbox.com/s/w7au9cc75xevsm5/IMG_20211216_042712.png?dl=1",ดูนี่สารคดี
+http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/521/521.mpd
+#EXTINF:-1,tvg-logo="https://dl.dropbox.com/s/yj4s0bvngzmgor9/cartoon_network_magazine_2010_logo_by_cherrymintarts_ddas63v-pre.png?dl=0",CN CARTOON
+http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/301/301.mpd
