@@ -1,0 +1,69 @@
+CCTV4K,http://222.85.69.6/PLTV/88888888/224/3221227244/index.m3u8
+CCTV4K,http://123.160.108.7:6410/PLTV1/190059/1.m3u8?
+东方卫视4K超高清,http://222.85.69.6/PLTV/88888888/224/3221227271/index.m3u8
+山东卫视4K超高清,http://222.85.69.6/PLTV/88888888/224/3221227274/index.m3u8
+浙江卫视4K超高清,http://222.85.69.6/PLTV/88888888/224/3221227275/index.m3u8
+湖南卫视4K超高清,http://222.85.69.6/PLTV/88888888/224/3221227278/index.m3u8
+江苏卫视4K超高清,http://222.85.69.6/PLTV/88888888/224/3221227330/index.m3u8
+四川卫视4K超高清,http://222.85.69.6/PLTV/88888888/224/3221227333/index.m3u8
+北京卫视4K超高清,http://123.160.108.15:6610/PLTV1/190057/1.m3u8?
+深圳卫视4K超高清,http://123.160.108.15:6610/PLTV1/190141/1.m3u8?
+广东卫视4K超高清,http://123.160.108.15:6610/PLTV1/190142/1.m3u8?
+河南卫视, http://219.150.217.47:6610/PLTV2/2780/index.m3u8?icpid=dxrm1
+ CCTV-1 综合,http://219.150.217.47:6610/PLTV1/40/index.m3u8?icpid=dxrm1
+ CCTV-2 财经,http://219.150.217.47:6610/PLTV1/60/index.m3u8?icpid=dxrm1
+ CCTV-3 综艺,http://219.150.217.47:6610/PLTV1/80/index.m3u8?icpid=dxrm1
+ CCTV-4 中文国际,http://219.150.217.47:6610/PLTV1/100/index.m3u8?icpid=dxrm1
+  CCTV-5+ 体育赛事,http://219.150.217.47:6610/PLTV1/380/index.m3u8?icpid=dxrm1
+ CCTV-5 体育,http://219.150.217.47:6610/PLTV1/120/index.m3u8?icpid=dxrm1
+ CCTV-6 电影,http://219.150.217.47:6610/PLTV1/140/index.m3u8?icpid=dxrm1
+ CCTV-7 国防 军事,http://219.150.217.47:6610/PLTV1/160/index.m3u8?icpid=dxrm1
+ CCTV-8 电视剧,http://219.150.217.47:6610/PLTV1/180/index.m3u8?icpid=dxrm1
+ CCTV-9 记录,http://219.150.217.47:6610/PLTV1/200/index.m3u8?icpid=dxrm1
+ CCTV-10 科教,http://219.150.217.47:6610/PLTV1/220/index.m3u8?icpid=dxrm1
+ CCTV-11 戏曲,http://219.150.217.47:6610/PLTV1/240/index.m3u8?icpid=dxrm1
+ CCTV-12 社会与法,http://219.150.217.47:6610/PLTV1/260/index.m3u8?icpid=dxrm1
+ CCTV-13 新闻,http://219.150.217.47:6610/PLTV1/280/index.m3u8?icpid=dxrm1
+ CCTV-14 少儿,http://219.150.217.47:6610/PLTV1/300/index.m3u8?icpid=dxrm1
+ CCTV-15 音乐,http://219.150.217.47:6610/PLTV1/320/index.m3u8?icpid=dxrm1
+ CCTV-17 农业 农村,http://219.150.217.47:6610/PLTV1/360/index.m3u8?icpid=dxrm1
+ CETV-1,http://219.150.217.47:6610/PLTV1/400/index.m3u8?icpid=dxrm1
+ CGTN,http://219.150.217.47:6610/PLTV1/340/index.m3u8?icpid=dxrm1
+ 浙江卫视,http://219.150.217.47:6610/PLTV1/960/index.m3u8?icpid=dxrm1
+ 东方卫视,http://219.150.217.47:6610/PLTV1/980/index.m3u8?icpid=dxrm1
+ 江苏卫视,http://219.150.217.47:6610/PLTV1/1000/index.m3u8?icpid=dxrm1
+ 北京卫视,http://219.150.217.47:6610/PLTV1/1020/index.m3u8?icpid=dxrm1
+ 广东卫视,http://219.150.217.47:6610/PLTV1/1040/index.m3u8?icpid=dxrm1
+ 黑龙江卫视,http://219.150.217.47:6610/PLTV1/1060/index.m3u8?icpid=dxrm1
+ 山东卫视,http://219.150.217.47:6610/PLTV1/1080/index.m3u8?icpid=dxrm1
+ 安徽卫视,http://219.150.217.47:6610/PLTV1/1100/index.m3u8?icpid=dxrm1
+ 辽宁卫视,http://219.150.217.47:6610/PLTV1/1120/index.m3u8?icpid=dxrm1
+ 陕西卫视,http://219.150.217.47:6610/PLTV1/1140/index.m3u8?icpid=dxrm1
+ 河北卫视,http://219.150.217.47:6610/PLTV1/1180/index.m3u8?icpid=dxrm1
+ 江西卫视,http://219.150.217.47:6610/PLTV1/1200/index.m3u8?icpid=dxrm1
+ 湖南卫视,http://219.150.217.47:6610/PLTV1/1220/index.m3u8?icpid=dxrm1
+ 深圳卫视,http://219.150.217.47:6610/PLTV1/1240/index.m3u8?icpid=dxrm1
+ 四川卫视,http://219.150.217.47:6610/PLTV1/1260/index.m3u8?icpid=dxrm1
+ 湖北卫视,http://219.150.217.47:6610/PLTV1/1280/index.m3u8?icpid=dxrm1
+ 天津卫视,http://219.150.217.47:6610/PLTV1/1300/index.m3u8?icpid=dxrm1
+ 云南卫视,http://219.150.217.47:6610/PLTV1/1320/index.m3u8?icpid=dxrm1
+ 重庆卫视,http://219.150.217.47:6610/PLTV1/1340/index.m3u8?icpid=dxrm1
+ 吉林卫视,http://219.150.217.47:6610/PLTV1/1360/index.m3u8?icpid=dxrm1
+ 东南卫视,http://219.150.217.47:6610/PLTV1/1400/index.m3u8?icpid=dxrm1
+ 广西卫视,http://219.150.217.47:6610/PLTV1/1440/index.m3u8?icpid=dxrm1
+ 海南卫视,http://219.150.217.47:6610/PLTV1/1480/index.m3u8?icpid=dxrm1
+ 甘肃卫视,http://219.150.217.47:6610/PLTV1/1500/index.m3u8?icpid=dxrm1
+ 河南卫视,http://219.150.217.47:6610/PLTV1/580/index.m3u8?icpid=dxrm1
+ 河南都市,http://219.150.217.47:6610/PLTV1/600/index.m3u8?icpid=dxrm1
+ 河南民生,http://219.150.217.47:6610/PLTV1/620/index.m3u8?icpid=dxrm1
+ 河南法制,http://219.150.217.47:6610/PLTV1/640/index.m3u8?icpid=dxrm1
+ 河南电视剧,http://219.150.217.47:6610/PLTV1/660/index.m3u8?icpid=dxrm1
+ 河南国际,http://219.150.217.47:6610/PLTV1/680/index.m3u8?icpid=dxrm1
+ 河南睛彩中原,http://219.150.217.47:6610/PLTV1/700/index.m3u8?icpid=dxrm1
+ 河南新闻,http://219.150.217.47:6610/PLTV1/720/index.m3u8?icpid=dxrm1
+ 河南公共,http://219.150.217.47:6610/PLTV1/760/index.m3u8?icpid=dxrm1
+ 河南乡村,http://219.150.217.47:6610/PLTV1/780/index.m3u8?icpid=dxrm1
+ 河南梨园戏曲,http://219.150.217.47:6610/PLTV1/800/index.m3u8?icpid=dxrm1
+ 收藏天下,http://219.150.217.47:6610/PLTV1/820/index.m3u8?icpid=dxrm1
+ 河南戏曲,http://219.150.217.47:6610/PLTV1/840/index.m3u8?icpid=dxrm1
+ 中华功夫,http://219.150.217.47:6610/PLTV1/860/index.m3u8?icpid=dxrm1
