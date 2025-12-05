@@ -1,4 +1,4 @@
-CCTV4K,http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/cctv4k/15000000/mnf.m3u8
+CCTV-4K,http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/cctv4k/15000000/mnf.m3u8
 CCTV-16 奥林匹克,http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/cctv16hd4k/15000000/mnf.m3u8
 欢笑剧场4K,http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/hxjc4k/15000000/mnf.m3u8
 CCTV-1 综合,http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/cctv1hd8m/8000000/mnf.m3u8
